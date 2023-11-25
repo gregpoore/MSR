@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.999667784120081,0.993249005891122,1,0,1,1,0,1,1,"Rectum Adenocarcinoma","Primary Tumor","snmDataSampleTypeWithExpStrategy_HiSeq_HMS","metadataSamplesAllQC_HiSeq_HMS",39,849,"Rectum Adenocarcinoma","OtherCancerType"

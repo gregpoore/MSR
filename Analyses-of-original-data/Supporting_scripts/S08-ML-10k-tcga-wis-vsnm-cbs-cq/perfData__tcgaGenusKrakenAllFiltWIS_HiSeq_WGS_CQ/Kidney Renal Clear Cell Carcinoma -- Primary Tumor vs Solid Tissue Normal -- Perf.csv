@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.964504283965728,0.970756964690031,0.970416666666667,0.0198548403765848,0.931501894609769,1,0.0198548403765848,0.919273987007374,1,"Kidney Renal Clear Cell Carcinoma","Primary Tumor vs Solid Tissue Normal","tcgaGenusKrakenAllFiltWIS_HiSeq_WGS_CQ","metadataSamplesAllQC_HiSeq_WGS",38,43,"SolidTissueNormal","PrimaryTumor"

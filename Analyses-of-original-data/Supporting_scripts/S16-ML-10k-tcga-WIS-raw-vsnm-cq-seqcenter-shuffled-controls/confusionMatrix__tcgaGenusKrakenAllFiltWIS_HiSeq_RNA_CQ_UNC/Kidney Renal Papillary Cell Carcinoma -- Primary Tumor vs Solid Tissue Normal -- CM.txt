@@ -1,0 +1,28 @@
+[1] "Kidney Renal Papillary Cell Carcinoma"
+Confusion Matrix and Statistics
+
+                   Reference
+Prediction          PrimaryTumor SolidTissueNormal
+  PrimaryTumor               277                31
+  SolidTissueNormal            8                 1
+                                         
+               Accuracy : 0.877          
+                 95% CI : (0.8357, 0.911)
+    No Information Rate : 0.8991         
+    P-Value [Acc > NIR] : 0.915884       
+                                         
+                  Kappa : 0.0047         
+                                         
+ Mcnemar's Test P-Value : 0.000427       
+                                         
+            Sensitivity : 0.97193        
+            Specificity : 0.03125        
+         Pos Pred Value : 0.89935        
+         Neg Pred Value : 0.11111        
+             Prevalence : 0.89905        
+         Detection Rate : 0.87382        
+   Detection Prevalence : 0.97161        
+      Balanced Accuracy : 0.50159        
+                                         
+       'Positive' Class : PrimaryTumor   
+                                         

@@ -1,0 +1,28 @@
+[1] "Uterine Carcinosarcoma"
+Confusion Matrix and Statistics
+
+                       Reference
+Prediction              UterineCarcinosarcoma OtherCancerType
+  UterineCarcinosarcoma                    42              54
+  OtherCancerType                          15           10346
+                                               
+               Accuracy : 0.9934               
+                 95% CI : (0.9917, 0.9949)     
+    No Information Rate : 0.9945               
+    P-Value [Acc > NIR] : 0.948                
+                                               
+                  Kappa : 0.5459               
+                                               
+ Mcnemar's Test P-Value : 4.77e-06             
+                                               
+            Sensitivity : 0.736842             
+            Specificity : 0.994808             
+         Pos Pred Value : 0.437500             
+         Neg Pred Value : 0.998552             
+             Prevalence : 0.005451             
+         Detection Rate : 0.004016             
+   Detection Prevalence : 0.009180             
+      Balanced Accuracy : 0.865825             
+                                               
+       'Positive' Class : UterineCarcinosarcoma
+                                               

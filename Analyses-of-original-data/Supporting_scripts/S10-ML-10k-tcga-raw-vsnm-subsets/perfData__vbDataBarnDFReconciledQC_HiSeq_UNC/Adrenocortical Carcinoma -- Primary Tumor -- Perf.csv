@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.997763988204663,0.980582974745051,0.998013048635824,0.0018317491300279,0.994422886312257,1,0.0018317491300279,0.993294775549948,1,"Adrenocortical Carcinoma","Primary Tumor","vbDataBarnDFReconciledQC_HiSeq_UNC","metadataSamplesAllQC_HiSeq_UNC",79,8435,"Adrenocortical Carcinoma","OtherCancerType"

@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.529354838709677,0.216330615867476,0.536842105263158,0.0425936289930997,0.453360126465821,0.620324084060494,0.0425936289930997,0.427128187558242,0.646556022968074,"Uveal Melanoma","Blood Derived Normal","vbDataBarnDFReconciledQC_Int_HiSeq_MDA","metadataSamplesAllQC_HiSeq_MDA_scrambled",50,186,"Uveal Melanoma","OtherCancerType"

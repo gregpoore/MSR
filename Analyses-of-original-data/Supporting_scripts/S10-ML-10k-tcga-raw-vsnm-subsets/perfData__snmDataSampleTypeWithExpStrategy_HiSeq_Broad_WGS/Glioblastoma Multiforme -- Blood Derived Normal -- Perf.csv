@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.977342047930283,0.915319233042083,0.977469135802469,0.0117256936107206,0.954487198631705,1,0.0117256936107206,0.947265750595539,1,"Glioblastoma Multiforme","Blood Derived Normal","snmDataSampleTypeWithExpStrategy_HiSeq_Broad_WGS","metadataSamplesAllQC_HiSeq_Broad_WGS",34,270,"Glioblastoma Multiforme","OtherCancerType"

@@ -1,0 +1,28 @@
+[1] "Liver Hepatocellular Carcinoma"
+Confusion Matrix and Statistics
+
+                              Reference
+Prediction                     LiverHepatocellularCarcinoma OtherCancerType
+  LiverHepatocellularCarcinoma                          305             385
+  OtherCancerType                                        57            7767
+                                                      
+               Accuracy : 0.9481                      
+                 95% CI : (0.9432, 0.9527)            
+    No Information Rate : 0.9575                      
+    P-Value [Acc > NIR] : 1                           
+                                                      
+                  Kappa : 0.555                       
+                                                      
+ Mcnemar's Test P-Value : <2e-16                      
+                                                      
+            Sensitivity : 0.84254                     
+            Specificity : 0.95277                     
+         Pos Pred Value : 0.44203                     
+         Neg Pred Value : 0.99271                     
+             Prevalence : 0.04252                     
+         Detection Rate : 0.03582                     
+   Detection Prevalence : 0.08104                     
+      Balanced Accuracy : 0.89766                     
+                                                      
+       'Positive' Class : LiverHepatocellularCarcinoma
+                                                      

@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.997474747474748,0.998986497333009,0.99,0.0109238375616967,0.968589671806109,1,0.0109238375616967,0.961862059101374,1,"Liver Hepatocellular Carcinoma","Primary Tumor vs Solid Tissue Normal","snmDataSampleTypeWithExpStrategy_HiSeq_BCM","metadataSamplesAllQC_HiSeq_BCM",22,54,"SolidTissueNormal","PrimaryTumor"

@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.958231444188723,0.617199611834286,0.955071091621819,0.0255802004756257,0.904934819972278,1,0.0255802004756257,0.889180861646047,1,"Liver Hepatocellular Carcinoma","Blood Derived Normal","tcgaGenusKrakenAllFiltWIS_HiSeq_WGS_CQP_libsize","metadataSamplesAllQC_HiSeq_WGS",32,1738,"Liver Hepatocellular Carcinoma","OtherCancerType"

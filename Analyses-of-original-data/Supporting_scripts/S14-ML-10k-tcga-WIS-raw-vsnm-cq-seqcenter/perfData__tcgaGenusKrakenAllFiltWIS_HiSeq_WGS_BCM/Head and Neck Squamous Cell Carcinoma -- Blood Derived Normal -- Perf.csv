@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.98703231292517,0.937764120600032,0.98921568627451,0.0068283616199391,0.975832343426014,1,0.0068283616199391,0.971626992318642,1,"Head and Neck Squamous Cell Carcinoma","Blood Derived Normal","tcgaGenusKrakenAllFiltWIS_HiSeq_WGS_BCM","metadataSamplesAllQC_HiSeq_BCM",28,168,"Head and Neck Squamous Cell Carcinoma","OtherCancerType"

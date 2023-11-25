@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.477948717948718,0.129762988221522,0.48866935483871,0.0412203488708149,0.407878955621736,0.569459754055683,0.0412203488708149,0.382492772314756,0.594845937362663,"Thyroid Carcinoma","Primary Tumor","vbDataBarnDFReconciledQC_Int_HiSeq_Broad_WGS","metadataSamplesAllQC_HiSeq_Broad_WGS_scrambled",50,312,"Thyroid Carcinoma","OtherCancerType"

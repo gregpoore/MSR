@@ -1,0 +1,28 @@
+[1] "Prostate Adenocarcinoma"
+Confusion Matrix and Statistics
+
+                   Reference
+Prediction          PrimaryTumor SolidTissueNormal
+  PrimaryTumor               480                32
+  SolidTissueNormal           24                20
+                                         
+               Accuracy : 0.8993         
+                 95% CI : (0.8712, 0.923)
+    No Information Rate : 0.9065         
+    P-Value [Acc > NIR] : 0.7475         
+                                         
+                  Kappa : 0.362          
+                                         
+ Mcnemar's Test P-Value : 0.3496         
+                                         
+            Sensitivity : 0.9524         
+            Specificity : 0.3846         
+         Pos Pred Value : 0.9375         
+         Neg Pred Value : 0.4545         
+             Prevalence : 0.9065         
+         Detection Rate : 0.8633         
+   Detection Prevalence : 0.9209         
+      Balanced Accuracy : 0.6685         
+                                         
+       'Positive' Class : PrimaryTumor   
+                                         

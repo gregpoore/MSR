@@ -1,0 +1,28 @@
+[1] "Stomach Adenocarcinoma"
+Confusion Matrix and Statistics
+
+                   Reference
+Prediction          PrimaryTumor SolidTissueNormal
+  PrimaryTumor               570                63
+  SolidTissueNormal           48                 7
+                                         
+               Accuracy : 0.8387         
+                 95% CI : (0.809, 0.8654)
+    No Information Rate : 0.8983         
+    P-Value [Acc > NIR] : 1.0000         
+                                         
+                  Kappa : 0.0247         
+                                         
+ Mcnemar's Test P-Value : 0.1839         
+                                         
+            Sensitivity : 0.9223         
+            Specificity : 0.1000         
+         Pos Pred Value : 0.9005         
+         Neg Pred Value : 0.1273         
+             Prevalence : 0.8983         
+         Detection Rate : 0.8285         
+   Detection Prevalence : 0.9201         
+      Balanced Accuracy : 0.5112         
+                                         
+       'Positive' Class : PrimaryTumor   
+                                         

@@ -1,0 +1,28 @@
+[1] "Glioblastoma Multiforme"
+Confusion Matrix and Statistics
+
+                        Reference
+Prediction               GlioblastomaMultiforme OtherCancerType
+  GlioblastomaMultiforme                      2               6
+  OtherCancerType                            32             322
+                                                
+               Accuracy : 0.895                 
+                 95% CI : (0.8588, 0.9246)      
+    No Information Rate : 0.9061                
+    P-Value [Acc > NIR] : 0.7937                
+                                                
+                  Kappa : 0.0617                
+                                                
+ Mcnemar's Test P-Value : 5.002e-05             
+                                                
+            Sensitivity : 0.058824              
+            Specificity : 0.981707              
+         Pos Pred Value : 0.250000              
+         Neg Pred Value : 0.909605              
+             Prevalence : 0.093923              
+         Detection Rate : 0.005525              
+   Detection Prevalence : 0.022099              
+      Balanced Accuracy : 0.520265              
+                                                
+       'Positive' Class : GlioblastomaMultiforme
+                                                

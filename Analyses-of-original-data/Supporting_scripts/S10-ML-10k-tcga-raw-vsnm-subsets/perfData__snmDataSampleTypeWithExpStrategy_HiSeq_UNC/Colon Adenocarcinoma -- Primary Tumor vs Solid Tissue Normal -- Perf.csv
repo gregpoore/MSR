@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.996260162601626,0.999493727916267,0.995833333333333,0.00279559694371669,0.990354064008358,1,0.00279559694371669,0.988632352804796,1,"Colon Adenocarcinoma","Primary Tumor vs Solid Tissue Normal","snmDataSampleTypeWithExpStrategy_HiSeq_UNC","metadataSamplesAllQC_HiSeq_UNC",41,300,"SolidTissueNormal","PrimaryTumor"

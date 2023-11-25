@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.992962092759364,0.950895617259784,0.99333338194351,0.00163599866669392,0.990126883478034,0.996539880408985,0.00163599866669392,0.989119328637273,0.997547435249747,"Brain Lower Grade Glioma","Primary Tumor","tcgaGenusKrakenAllFiltWIS_HiSeq_RNA_CQ","metadataSamplesAllQC_HiSeq_RNA",515,9942,"Brain Lower Grade Glioma","OtherCancerType"

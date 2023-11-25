@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.502491703695371,0.12815829253272,0.505180299498481,0.0277457208057127,0.450799685994181,0.559560913002782,0.0277457208057127,0.43371205879904,0.576648540197922,"Lung Adenocarcinoma","Primary Tumor","vbDataBarnDFReconciledQC_Int_HiSeq_HMS","metadataSamplesAllQC_HiSeq_HMS_shuffled",115,773,"Lung Adenocarcinoma","OtherCancerType"

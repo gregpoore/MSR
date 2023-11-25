@@ -1,0 +1,28 @@
+[1] "Thymoma"
+Confusion Matrix and Statistics
+
+                 Reference
+Prediction        Thymoma OtherCancerType
+  Thymoma             101              96
+  OtherCancerType      19           10241
+                                          
+               Accuracy : 0.989           
+                 95% CI : (0.9868, 0.9909)
+    No Information Rate : 0.9885          
+    P-Value [Acc > NIR] : 0.3443          
+                                          
+                  Kappa : 0.632           
+                                          
+ Mcnemar's Test P-Value : 1.37e-12        
+                                          
+            Sensitivity : 0.841667        
+            Specificity : 0.990713        
+         Pos Pred Value : 0.512690        
+         Neg Pred Value : 0.998148        
+             Prevalence : 0.011476        
+         Detection Rate : 0.009659        
+   Detection Prevalence : 0.018839        
+      Balanced Accuracy : 0.916190        
+                                          
+       'Positive' Class : Thymoma         
+                                          

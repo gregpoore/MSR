@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.96903725205612,0.901117153950063,0.970061728395062,0.0150258574657332,0.940611588925392,0.999511867864731,0.0150258574657332,0.931357684423877,1,"Brain Lower Grade Glioma","Blood Derived Normal","vbDataBarnDFReconciledQC_HiSeq_Broad_WGS","metadataSamplesAllQC_HiSeq_Broad_WGS",39,265,"Brain Lower Grade Glioma","OtherCancerType"

@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.964712624856722,0.91511629358989,0.971798245614035,0.0116235777106855,0.949016451929589,0.994580039298481,0.0116235777106855,0.941857893534773,1,"Bladder Urothelial Carcinoma","Primary Tumor","vbDataBarnDFReconciledQC_Int_HiSeq_MDA","metadataSamplesAllQC_HiSeq_MDA",62,197,"Bladder Urothelial Carcinoma","OtherCancerType"

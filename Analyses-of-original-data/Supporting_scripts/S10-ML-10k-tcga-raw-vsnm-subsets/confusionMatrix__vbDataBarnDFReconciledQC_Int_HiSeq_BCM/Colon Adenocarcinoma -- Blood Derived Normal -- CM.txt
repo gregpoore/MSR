@@ -1,0 +1,28 @@
+[1] "Colon Adenocarcinoma"
+Confusion Matrix and Statistics
+
+                     Reference
+Prediction            ColonAdenocarcinoma OtherCancerType
+  ColonAdenocarcinoma                  28               3
+  OtherCancerType                      14             151
+                                             
+               Accuracy : 0.9133             
+                 95% CI : (0.8648, 0.9487)   
+    No Information Rate : 0.7857             
+    P-Value [Acc > NIR] : 1.459e-06          
+                                             
+                  Kappa : 0.7153             
+                                             
+ Mcnemar's Test P-Value : 0.01529            
+                                             
+            Sensitivity : 0.6667             
+            Specificity : 0.9805             
+         Pos Pred Value : 0.9032             
+         Neg Pred Value : 0.9152             
+             Prevalence : 0.2143             
+         Detection Rate : 0.1429             
+   Detection Prevalence : 0.1582             
+      Balanced Accuracy : 0.8236             
+                                             
+       'Positive' Class : ColonAdenocarcinoma
+                                             

@@ -1,0 +1,28 @@
+[1] "Esophageal Carcinoma"
+Confusion Matrix and Statistics
+
+                     Reference
+Prediction            EsophagealCarcinoma OtherCancerType
+  EsophagealCarcinoma                  22             146
+  OtherCancerType                     162            1302
+                                             
+               Accuracy : 0.8113             
+                 95% CI : (0.7914, 0.83)     
+    No Information Rate : 0.8873             
+    P-Value [Acc > NIR] : 1.0000             
+                                             
+                  Kappa : 0.0195             
+                                             
+ Mcnemar's Test P-Value : 0.3927             
+                                             
+            Sensitivity : 0.11957            
+            Specificity : 0.89917            
+         Pos Pred Value : 0.13095            
+         Neg Pred Value : 0.88934            
+             Prevalence : 0.11275            
+         Detection Rate : 0.01348            
+   Detection Prevalence : 0.10294            
+      Balanced Accuracy : 0.50937            
+                                             
+       'Positive' Class : EsophagealCarcinoma
+                                             

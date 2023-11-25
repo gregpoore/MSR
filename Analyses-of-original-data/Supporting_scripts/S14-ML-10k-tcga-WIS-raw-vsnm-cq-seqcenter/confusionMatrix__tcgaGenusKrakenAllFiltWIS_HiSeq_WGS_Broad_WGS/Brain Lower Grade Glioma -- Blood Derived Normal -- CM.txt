@@ -1,0 +1,28 @@
+[1] "Brain Lower Grade Glioma"
+Confusion Matrix and Statistics
+
+                       Reference
+Prediction              BrainLowerGradeGlioma OtherCancerType
+  BrainLowerGradeGlioma                    33               3
+  OtherCancerType                           6             262
+                                               
+               Accuracy : 0.9704               
+                 95% CI : (0.9445, 0.9864)     
+    No Information Rate : 0.8717               
+    P-Value [Acc > NIR] : 1.641e-09            
+                                               
+                  Kappa : 0.8631               
+                                               
+ Mcnemar's Test P-Value : 0.505                
+                                               
+            Sensitivity : 0.8462               
+            Specificity : 0.9887               
+         Pos Pred Value : 0.9167               
+         Neg Pred Value : 0.9776               
+             Prevalence : 0.1283               
+         Detection Rate : 0.1086               
+   Detection Prevalence : 0.1184               
+      Balanced Accuracy : 0.9174               
+                                               
+       'Positive' Class : BrainLowerGradeGlioma
+                                               

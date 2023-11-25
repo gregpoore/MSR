@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.999473391930449,0.999130994091648,0.999441586458083,0.00023503610254748,0.998980924162023,0.999902248754142,0.00023503610254748,0.998836173577749,1,"Stomach Adenocarcinoma","Primary Tumor","vbDataBarnDFReconciledQC_HiSeq_CMS","metadataSamplesAllQC_HiSeq_CMS",618,1014,"Stomach Adenocarcinoma","OtherCancerType"

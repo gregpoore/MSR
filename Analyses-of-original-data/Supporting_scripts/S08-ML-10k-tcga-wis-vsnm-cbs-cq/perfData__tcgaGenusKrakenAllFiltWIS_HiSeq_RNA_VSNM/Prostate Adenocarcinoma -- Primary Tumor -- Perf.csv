@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.941904929358461,0.592001127080269,0.942122652913359,0.00484923451286186,0.932618327915561,0.951626977911157,0.00484923451286186,0.929631852555349,0.954613453271369,"Prostate Adenocarcinoma","Primary Tumor","tcgaGenusKrakenAllFiltWIS_HiSeq_RNA_VSNM","metadataSamplesAllQC_HiSeq_RNA",504,9953,"Prostate Adenocarcinoma","OtherCancerType"

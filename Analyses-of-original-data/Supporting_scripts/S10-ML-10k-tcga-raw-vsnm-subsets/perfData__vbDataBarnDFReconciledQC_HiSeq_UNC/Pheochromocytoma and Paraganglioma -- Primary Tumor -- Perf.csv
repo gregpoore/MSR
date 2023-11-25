@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.99975603312558,0.993438324573991,0.999779392172536,0.000148804586515413,0.999487740542232,1,0.000148804586515413,0.999396096958088,1,"Pheochromocytoma and Paraganglioma","Primary Tumor","vbDataBarnDFReconciledQC_HiSeq_UNC","metadataSamplesAllQC_HiSeq_UNC",178,8336,"Pheochromocytoma and Paraganglioma","OtherCancerType"

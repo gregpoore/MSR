@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.991717695085571,0.947198843324488,0.991762998905856,0.00364454982908744,0.984619812500983,0.998906185310729,0.00364454982908744,0.982375260657849,1,"Lung Adenocarcinoma","Blood Derived Normal","snmDataSampleTypeWithExpStrategy_HiSeq_HMS","metadataSamplesAllQC_HiSeq_HMS",66,772,"Lung Adenocarcinoma","OtherCancerType"

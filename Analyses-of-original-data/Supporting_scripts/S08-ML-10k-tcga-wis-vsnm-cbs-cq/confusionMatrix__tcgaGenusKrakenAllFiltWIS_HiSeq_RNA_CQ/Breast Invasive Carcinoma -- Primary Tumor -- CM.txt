@@ -1,0 +1,28 @@
+[1] "Breast Invasive Carcinoma"
+Confusion Matrix and Statistics
+
+                         Reference
+Prediction                BreastInvasiveCarcinoma OtherCancerType
+  BreastInvasiveCarcinoma                     936             617
+  OtherCancerType                             182            8722
+                                                 
+               Accuracy : 0.9236                 
+                 95% CI : (0.9183, 0.9286)       
+    No Information Rate : 0.8931                 
+    P-Value [Acc > NIR] : < 2.2e-16              
+                                                 
+                  Kappa : 0.6584                 
+                                                 
+ Mcnemar's Test P-Value : < 2.2e-16              
+                                                 
+            Sensitivity : 0.83721                
+            Specificity : 0.93393                
+         Pos Pred Value : 0.60270                
+         Neg Pred Value : 0.97956                
+             Prevalence : 0.10691                
+         Detection Rate : 0.08951                
+   Detection Prevalence : 0.14851                
+      Balanced Accuracy : 0.88557                
+                                                 
+       'Positive' Class : BreastInvasiveCarcinoma
+                                                 

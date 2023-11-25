@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.999911263400019,0.992677597154309,1,0,1,1,0,1,1,"Glioblastoma Multiforme","Primary Tumor","tcgaGenusKrakenAllFiltWIS_HiSeq_RNA_CQP","metadataSamplesAllQC_HiSeq_RNA",311,10146,"Glioblastoma Multiforme","OtherCancerType"

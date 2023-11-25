@@ -1,0 +1,28 @@
+[1] "Bladder Urothelial Carcinoma"
+Confusion Matrix and Statistics
+
+                            Reference
+Prediction                   BladderUrothelialCarcinoma OtherCancerType
+  BladderUrothelialCarcinoma                         11              20
+  OtherCancerType                                    51             177
+                                                    
+               Accuracy : 0.7259                    
+                 95% CI : (0.6672, 0.7793)          
+    No Information Rate : 0.7606                    
+    P-Value [Acc > NIR] : 0.9151224                 
+                                                    
+                  Kappa : 0.0916                    
+                                                    
+ Mcnemar's Test P-Value : 0.0003704                 
+                                                    
+            Sensitivity : 0.17742                   
+            Specificity : 0.89848                   
+         Pos Pred Value : 0.35484                   
+         Neg Pred Value : 0.77632                   
+             Prevalence : 0.23938                   
+         Detection Rate : 0.04247                   
+   Detection Prevalence : 0.11969                   
+      Balanced Accuracy : 0.53795                   
+                                                    
+       'Positive' Class : BladderUrothelialCarcinoma
+                                                    

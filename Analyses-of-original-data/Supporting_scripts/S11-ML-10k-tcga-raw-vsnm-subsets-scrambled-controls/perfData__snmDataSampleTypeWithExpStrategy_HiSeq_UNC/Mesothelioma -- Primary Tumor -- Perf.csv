@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.514443857933381,0.0101214739610818,0.515046149542582,0.0272147708176362,0.461706178892503,0.56838612019266,0.0272147708176362,0.444945545381147,0.585146753704016,"Mesothelioma","Primary Tumor","snmDataSampleTypeWithExpStrategy_HiSeq_UNC","metadataSamplesAllQC_HiSeq_UNC_scrambled",87,8427,"Mesothelioma","OtherCancerType"

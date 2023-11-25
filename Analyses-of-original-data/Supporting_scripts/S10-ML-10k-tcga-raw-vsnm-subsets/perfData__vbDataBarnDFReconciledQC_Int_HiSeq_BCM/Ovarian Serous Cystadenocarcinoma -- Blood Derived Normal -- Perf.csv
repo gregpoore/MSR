@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.997727272727273,0.983354769637072,1,0,1,1,0,1,1,"Ovarian Serous Cystadenocarcinoma","Blood Derived Normal","vbDataBarnDFReconciledQC_Int_HiSeq_BCM","metadataSamplesAllQC_HiSeq_BCM",20,176,"Ovarian Serous Cystadenocarcinoma","OtherCancerType"

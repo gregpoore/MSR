@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.395155688441908,0.0341250633618031,0.403203781512605,0.0405837445673947,0.323661103802738,0.482746459222472,0.0405837445673947,0.298666983008166,0.507740580017044,"Rectum Adenocarcinoma","Primary Tumor","vbDataBarnDFReconciledQC_HiSeq_HMS","metadataSamplesAllQC_HiSeq_HMS_shuffled",39,849,"Rectum Adenocarcinoma","OtherCancerType"

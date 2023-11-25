@@ -1,0 +1,32 @@
+[1] "Ovarian Serous Cystadenocarcinoma"
+Confusion Matrix and Statistics
+
+                                 Reference
+Prediction                        OvarianSerousCystadenocarcinoma
+  OvarianSerousCystadenocarcinoma                              29
+  OtherCancerType                                               9
+                                 Reference
+Prediction                        OtherCancerType
+  OvarianSerousCystadenocarcinoma               4
+  OtherCancerType                            1728
+                                                         
+               Accuracy : 0.9927                         
+                 95% CI : (0.9875, 0.9961)               
+    No Information Rate : 0.9785                         
+    P-Value [Acc > NIR] : 2.158e-06                      
+                                                         
+                  Kappa : 0.8132                         
+                                                         
+ Mcnemar's Test P-Value : 0.2673                         
+                                                         
+            Sensitivity : 0.76316                        
+            Specificity : 0.99769                        
+         Pos Pred Value : 0.87879                        
+         Neg Pred Value : 0.99482                        
+             Prevalence : 0.02147                        
+         Detection Rate : 0.01638                        
+   Detection Prevalence : 0.01864                        
+      Balanced Accuracy : 0.88042                        
+                                                         
+       'Positive' Class : OvarianSerousCystadenocarcinoma
+                                                         

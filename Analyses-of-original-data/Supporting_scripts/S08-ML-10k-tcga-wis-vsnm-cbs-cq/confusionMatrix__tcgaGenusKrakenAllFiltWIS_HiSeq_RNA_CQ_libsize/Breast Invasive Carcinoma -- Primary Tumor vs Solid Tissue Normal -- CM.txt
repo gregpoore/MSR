@@ -1,0 +1,28 @@
+[1] "Breast Invasive Carcinoma"
+Confusion Matrix and Statistics
+
+                   Reference
+Prediction          PrimaryTumor SolidTissueNormal
+  PrimaryTumor              1073                30
+  SolidTissueNormal           45                83
+                                          
+               Accuracy : 0.9391          
+                 95% CI : (0.9242, 0.9518)
+    No Information Rate : 0.9082          
+    P-Value [Acc > NIR] : 4.737e-05       
+                                          
+                  Kappa : 0.6552          
+                                          
+ Mcnemar's Test P-Value : 0.106           
+                                          
+            Sensitivity : 0.9597          
+            Specificity : 0.7345          
+         Pos Pred Value : 0.9728          
+         Neg Pred Value : 0.6484          
+             Prevalence : 0.9082          
+         Detection Rate : 0.8716          
+   Detection Prevalence : 0.8960          
+      Balanced Accuracy : 0.8471          
+                                          
+       'Positive' Class : PrimaryTumor    
+                                          

@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.994679856221335,0.877618284895652,0.995000229574732,0.000903894328882935,0.993228629244291,0.996771829905172,0.000903894328882935,0.992671952075083,0.99732850707438,"Sarcoma","Primary Tumor","tcgaGenusKrakenAllFiltWIS_HiSeq_RNA_VSNM","metadataSamplesAllQC_HiSeq_RNA",259,10198,"Sarcoma","OtherCancerType"

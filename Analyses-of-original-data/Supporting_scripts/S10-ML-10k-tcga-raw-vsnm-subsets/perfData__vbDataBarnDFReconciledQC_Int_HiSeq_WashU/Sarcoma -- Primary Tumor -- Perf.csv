@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.986086650228954,0.891674715355023,0.992830882352941,0.00489389869185346,0.983239017172921,1,0.00489389869185346,0.980225034693865,1,"Sarcoma","Primary Tumor","vbDataBarnDFReconciledQC_Int_HiSeq_WashU","metadataSamplesAllQC_HiSeq_WashU",34,167,"Sarcoma","OtherCancerType"

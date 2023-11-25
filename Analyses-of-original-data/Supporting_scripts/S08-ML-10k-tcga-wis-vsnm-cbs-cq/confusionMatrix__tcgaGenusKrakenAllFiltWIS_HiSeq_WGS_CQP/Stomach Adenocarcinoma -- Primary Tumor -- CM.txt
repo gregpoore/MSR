@@ -1,0 +1,28 @@
+[1] "Stomach Adenocarcinoma"
+Confusion Matrix and Statistics
+
+                       Reference
+Prediction              StomachAdenocarcinoma OtherCancerType
+  StomachAdenocarcinoma                   118             103
+  OtherCancerType                          43            1765
+                                               
+               Accuracy : 0.928                
+                 95% CI : (0.9159, 0.9389)     
+    No Information Rate : 0.9207               
+    P-Value [Acc > NIR] : 0.1158               
+                                               
+                  Kappa : 0.5792               
+                                               
+ Mcnemar's Test P-Value : 1.046e-06            
+                                               
+            Sensitivity : 0.73292              
+            Specificity : 0.94486              
+         Pos Pred Value : 0.53394              
+         Neg Pred Value : 0.97622              
+             Prevalence : 0.07935              
+         Detection Rate : 0.05816              
+   Detection Prevalence : 0.10892              
+      Balanced Accuracy : 0.83889              
+                                               
+       'Positive' Class : StomachAdenocarcinoma
+                                               

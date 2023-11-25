@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.829065279409297,0.971844806688658,0.826819607843137,0.0268783053194725,0.7741390974515,0.879500118234775,0.0268783053194725,0.757585681371506,0.896053534314769,"Thyroid Carcinoma","Primary Tumor vs Solid Tissue Normal","tcgaGenusKrakenAllFiltWIS_HiSeq_RNA_VSNM","metadataSamplesAllQC_HiSeq_RNA",59,505,"SolidTissueNormal","PrimaryTumor"

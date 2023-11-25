@@ -1,0 +1,32 @@
+[1] "Uterine Corpus Endometrial Carcinoma"
+Confusion Matrix and Statistics
+
+                                   Reference
+Prediction                          UterineCorpusEndometrialCarcinoma
+  UterineCorpusEndometrialCarcinoma                               118
+  OtherCancerType                                                  64
+                                   Reference
+Prediction                          OtherCancerType
+  UterineCorpusEndometrialCarcinoma             394
+  OtherCancerType                              7938
+                                                           
+               Accuracy : 0.9462                           
+                 95% CI : (0.9412, 0.9509)                 
+    No Information Rate : 0.9786                           
+    P-Value [Acc > NIR] : 1                                
+                                                           
+                  Kappa : 0.3186                           
+                                                           
+ Mcnemar's Test P-Value : <2e-16                           
+                                                           
+            Sensitivity : 0.64835                          
+            Specificity : 0.95271                          
+         Pos Pred Value : 0.23047                          
+         Neg Pred Value : 0.99200                          
+             Prevalence : 0.02138                          
+         Detection Rate : 0.01386                          
+   Detection Prevalence : 0.06014                          
+      Balanced Accuracy : 0.80053                          
+                                                           
+       'Positive' Class : UterineCorpusEndometrialCarcinoma
+                                                           

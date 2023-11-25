@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.967501815541031,0.855574685931357,0.96875,0.0128718835413658,0.943521571845729,0.993978428154271,0.0128718835413658,0.935594225182281,1,"Kidney Renal Papillary Cell Carcinoma","Blood Derived Normal","vbDataBarnDFReconciledQC_HiSeq_BCM","metadataSamplesAllQC_HiSeq_BCM",34,162,"Kidney Renal Papillary Cell Carcinoma","OtherCancerType"

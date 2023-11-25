@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.442435978087075,0.00360461325031066,0.452698608388467,0.0425583800494797,0.369285716251119,0.536111500525815,0.0425583800494797,0.343075485945446,0.562321730831488,"Cholangiocarcinoma","Primary Tumor","vbDataBarnDFReconciledQC_Int_HiSeq_UNC","metadataSamplesAllQC_HiSeq_UNC_scrambled",36,8478,"Cholangiocarcinoma","OtherCancerType"

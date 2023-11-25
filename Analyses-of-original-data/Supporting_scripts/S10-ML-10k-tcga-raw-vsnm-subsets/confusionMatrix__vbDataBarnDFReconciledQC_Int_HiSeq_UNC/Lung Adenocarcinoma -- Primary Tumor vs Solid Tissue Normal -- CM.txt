@@ -1,0 +1,28 @@
+[1] "Lung Adenocarcinoma"
+Confusion Matrix and Statistics
+
+                   Reference
+Prediction          PrimaryTumor SolidTissueNormal
+  PrimaryTumor               510                 7
+  SolidTissueNormal            9                52
+                                          
+               Accuracy : 0.9723          
+                 95% CI : (0.9554, 0.9841)
+    No Information Rate : 0.8979          
+    P-Value [Acc > NIR] : 5.816e-12       
+                                          
+                  Kappa : 0.8512          
+                                          
+ Mcnemar's Test P-Value : 0.8026          
+                                          
+            Sensitivity : 0.9827          
+            Specificity : 0.8814          
+         Pos Pred Value : 0.9865          
+         Neg Pred Value : 0.8525          
+             Prevalence : 0.8979          
+         Detection Rate : 0.8824          
+   Detection Prevalence : 0.8945          
+      Balanced Accuracy : 0.9320          
+                                          
+       'Positive' Class : PrimaryTumor    
+                                          

@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.997831825037707,0.991646995773611,0.998095238095238,0.00213324135212606,0.99391416187474,1,0.00213324135212606,0.99260037250889,1,"Uveal Melanoma","Primary Tumor","snmDataSampleTypeWithExpStrategy_HiSeq_MDA","metadataSamplesAllQC_HiSeq_MDA",51,208,"Uveal Melanoma","OtherCancerType"

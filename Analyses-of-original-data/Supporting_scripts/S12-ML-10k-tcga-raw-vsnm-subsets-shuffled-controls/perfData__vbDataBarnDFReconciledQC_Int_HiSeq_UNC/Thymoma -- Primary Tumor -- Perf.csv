@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.517905646890636,0.0157224722926263,0.518976330003592,0.0262141980328067,0.46759744597569,0.570355214031494,0.0262141980328067,0.451453030541655,0.58649962946553,"Thymoma","Primary Tumor","vbDataBarnDFReconciledQC_Int_HiSeq_UNC","metadataSamplesAllQC_HiSeq_UNC_shuffled",120,8394,"Thymoma","OtherCancerType"

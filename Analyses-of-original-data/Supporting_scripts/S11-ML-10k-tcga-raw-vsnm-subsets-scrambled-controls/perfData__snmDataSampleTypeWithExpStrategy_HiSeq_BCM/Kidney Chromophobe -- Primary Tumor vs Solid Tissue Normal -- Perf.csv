@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.578048780487805,0.679593882520687,0.583,0.0594220883714417,0.466534846905818,0.699465153094182,0.0594220883714417,0.429938843494768,0.736061156505232,"Kidney Chromophobe","Primary Tumor vs Solid Tissue Normal","snmDataSampleTypeWithExpStrategy_HiSeq_BCM","metadataSamplesAllQC_HiSeq_BCM_scrambled",41,50,"SolidTissueNormal","PrimaryTumor"

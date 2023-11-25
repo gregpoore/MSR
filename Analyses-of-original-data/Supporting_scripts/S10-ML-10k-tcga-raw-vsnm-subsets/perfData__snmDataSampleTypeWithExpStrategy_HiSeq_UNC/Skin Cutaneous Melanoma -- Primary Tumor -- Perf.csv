@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.988282796568987,0.809152520797078,0.987528470312383,0.0037581384626085,0.980162654276756,0.994894286348011,0.0037581384626085,0.977848147133602,0.997208793491164,"Skin Cutaneous Melanoma","Primary Tumor","snmDataSampleTypeWithExpStrategy_HiSeq_UNC","metadataSamplesAllQC_HiSeq_UNC",103,8411,"Skin Cutaneous Melanoma","OtherCancerType"

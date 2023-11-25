@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.495572026910127,0.026467608765779,0.49706524729438,0.0413221159722375,0.416075388223807,0.578055106364953,0.0413221159722375,0.390626530088445,0.603503964500315,"Uterine Carcinosarcoma","Primary Tumor","snmDataSampleTypeWithExpStrategy_HiSeq_UNC","metadataSamplesAllQC_HiSeq_UNC_shuffled",57,8457,"Uterine Carcinosarcoma","OtherCancerType"

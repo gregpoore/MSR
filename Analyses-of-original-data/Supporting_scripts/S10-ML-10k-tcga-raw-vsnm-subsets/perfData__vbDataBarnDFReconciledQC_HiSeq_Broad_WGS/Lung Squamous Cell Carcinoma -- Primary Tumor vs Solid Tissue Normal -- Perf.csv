@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.80625,0.828736502143164,0.835,0.0444839234380742,0.747813112170337,0.922186887829663,0.0444839234380742,0.720417006471383,0.949582993528617,"Lung Squamous Cell Carcinoma","Primary Tumor vs Solid Tissue Normal","vbDataBarnDFReconciledQC_HiSeq_Broad_WGS","metadataSamplesAllQC_HiSeq_Broad_WGS",32,50,"SolidTissueNormal","PrimaryTumor"

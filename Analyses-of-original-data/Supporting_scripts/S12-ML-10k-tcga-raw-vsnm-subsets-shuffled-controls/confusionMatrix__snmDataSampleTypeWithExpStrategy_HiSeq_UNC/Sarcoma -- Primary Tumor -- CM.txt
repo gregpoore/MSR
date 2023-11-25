@@ -1,0 +1,28 @@
+[1] "Sarcoma"
+Confusion Matrix and Statistics
+
+                 Reference
+Prediction        Sarcoma OtherCancerType
+  Sarcoma              13             336
+  OtherCancerType     246            7919
+                                          
+               Accuracy : 0.9316          
+                 95% CI : (0.9261, 0.9369)
+    No Information Rate : 0.9696          
+    P-Value [Acc > NIR] : 1.000000        
+                                          
+                  Kappa : 0.0081          
+                                          
+ Mcnemar's Test P-Value : 0.000225        
+                                          
+            Sensitivity : 0.050193        
+            Specificity : 0.959297        
+         Pos Pred Value : 0.037249        
+         Neg Pred Value : 0.969871        
+             Prevalence : 0.030420        
+         Detection Rate : 0.001527        
+   Detection Prevalence : 0.040991        
+      Balanced Accuracy : 0.504745        
+                                          
+       'Positive' Class : Sarcoma         
+                                          

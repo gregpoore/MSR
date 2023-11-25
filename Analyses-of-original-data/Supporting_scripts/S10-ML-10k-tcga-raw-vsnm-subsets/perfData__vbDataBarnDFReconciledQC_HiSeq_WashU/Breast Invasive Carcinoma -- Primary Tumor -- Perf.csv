@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.943828016643551,0.947677953658164,0.959555555555556,0.0127503975266064,0.934565235614839,0.984545875496273,0.0127503975266064,0.926712707974626,0.992398403136486,"Breast Invasive Carcinoma","Primary Tumor","vbDataBarnDFReconciledQC_HiSeq_WashU","metadataSamplesAllQC_HiSeq_WashU",98,103,"Breast Invasive Carcinoma","OtherCancerType"

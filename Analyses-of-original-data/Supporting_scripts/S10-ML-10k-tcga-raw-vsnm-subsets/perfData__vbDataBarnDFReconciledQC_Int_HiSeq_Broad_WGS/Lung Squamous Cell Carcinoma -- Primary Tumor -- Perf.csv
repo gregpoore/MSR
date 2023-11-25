@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.985769230769231,0.92180212792735,0.987862903225806,0.00500896514682714,0.978045511938209,0.997680294513404,0.00500896514682714,0.974960664020154,1,"Lung Squamous Cell Carcinoma","Primary Tumor","vbDataBarnDFReconciledQC_Int_HiSeq_Broad_WGS","metadataSamplesAllQC_HiSeq_Broad_WGS",50,312,"Lung Squamous Cell Carcinoma","OtherCancerType"

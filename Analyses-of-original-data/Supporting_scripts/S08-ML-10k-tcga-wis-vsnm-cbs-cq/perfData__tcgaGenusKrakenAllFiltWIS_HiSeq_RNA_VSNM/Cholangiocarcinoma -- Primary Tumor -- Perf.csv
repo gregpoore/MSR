@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.990566590964825,0.57089076151181,0.990555275427875,0.00331086373637565,0.984066101746859,0.997044449108891,0.00331086373637565,0.982027055595661,0.999083495260088,"Cholangiocarcinoma","Primary Tumor","tcgaGenusKrakenAllFiltWIS_HiSeq_RNA_VSNM","metadataSamplesAllQC_HiSeq_RNA",36,10421,"Cholangiocarcinoma","OtherCancerType"

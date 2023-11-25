@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.9772730799499,0.707306259206801,0.978558609236044,0.00710470881241545,0.964633635843066,0.992483582629023,0.00710470881241545,0.960258092083842,0.996859126388246,"Mesothelioma","Primary Tumor","tcgaGenusKrakenAllFiltWIS_HiSeq_RNA_CQ","metadataSamplesAllQC_HiSeq_RNA",87,10370,"Mesothelioma","OtherCancerType"

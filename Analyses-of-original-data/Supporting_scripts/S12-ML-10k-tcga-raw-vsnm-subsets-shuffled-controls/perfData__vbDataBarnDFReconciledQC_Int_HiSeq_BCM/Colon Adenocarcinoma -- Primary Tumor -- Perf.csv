@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.579698113207547,0.195360150353715,0.5797150997151,0.0428638397082954,0.495703517647743,0.663726681782456,0.0428638397082954,0.46930516533185,0.69012503409835,"Colon Adenocarcinoma","Primary Tumor","vbDataBarnDFReconciledQC_Int_HiSeq_BCM","metadataSamplesAllQC_HiSeq_BCM_shuffled",50,265,"Colon Adenocarcinoma","OtherCancerType"
