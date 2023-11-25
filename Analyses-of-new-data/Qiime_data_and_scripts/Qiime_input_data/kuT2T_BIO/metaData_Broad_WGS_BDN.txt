@@ -1,0 +1,309 @@
+sampleid	investigation	disease_type	experimental_strategy	data_submitting_center_label
+13722.58cfa82ee4b0c9d6adf6aeb0	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac8a	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af94	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aff4	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ad2f	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6b168	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6adf9	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6acf2	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac92	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6acfc	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82de4b0c9d6adf6a768	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6adaa	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6addf	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aea9	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ace8	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82de4b0c9d6adf6a736	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aafe	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82de4b0c9d6adf6a744	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af61	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a8d0	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a96c	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a8c8	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a98a	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a864	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6abf8	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab18	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a92c	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac29	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab96	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6abe5	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aaca	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa9c	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a8e8	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a940	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa23	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a8fc	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a970	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a866	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6acf3	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aec6	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ad9c	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a90c	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aef4	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a9e0	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa3a	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6adce	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af2e	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ae4c	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ad3c	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab78	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aefa	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6abac	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ad4d	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ad14	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a8a2	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac68	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aef6	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6adc1	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa7c	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af16	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aef0	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a7f2	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac54	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ad2c	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aeb8	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82de4b0c9d6adf6a76c	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a7c8	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ad10	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a7d8	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aec0	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6b00c	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac5c	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ada2	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6b08a	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82de4b0c9d6adf6a772	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a9c8	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af5f	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa7e	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac04	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab48	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa13	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a7f0	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aad0	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6adf4	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ace2	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ae7b	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aafa	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa2c	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6acd5	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a995	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a8dc	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82de4b0c9d6adf6a72a	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ada8	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a8c5	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ae47	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af51	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aea1	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab64	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa46	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab52	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af42	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa5c	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a958	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a8ee	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ae90	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ae87	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aebc	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ade8	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af0e	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aeb2	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aaea	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a98c	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab71	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af0a	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aeae	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a902	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a999	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a97a	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac3f	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a982	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac66	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aabc	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a8f0	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab06	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6acda	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a8bc	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a977	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a8de	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6acdd	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a972	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac10	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aba5	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aafc	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aab4	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa6c	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a90d	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac70	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac60	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a97c	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab3a	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab6a	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a96d	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa5e	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa84	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6adb8	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab84	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6abc8	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a94a	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ad0a	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a86c	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ad59	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6abf9	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aca0	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac43	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aefe	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af40	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab58	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab32	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa8f	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac0e	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ad0c	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af30	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a936	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab8f	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ae84	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6acba	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac2e	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aad6	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa9a	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aba7	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a983	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6afb8	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6b0af	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a991	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a92a	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6abe3	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6add2	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6acb8	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6abb3	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab08	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a88f	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a816	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac47	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af02	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aca6	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab93	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac00	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac32	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a903	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa66	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aaf8	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac24	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab9d	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6afc2	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aaf2	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa3e	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a98e	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa48	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa22	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a91e	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6abba	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac6e	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a900	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a93c	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a7cb	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aaaa	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6abde	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6b095	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ad53	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a8f2	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a934	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a884	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ae7f	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ada6	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa8e	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa96	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a946	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa42	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab9a	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82de4b0c9d6adf6a732	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af36	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac19	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af38	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a9fa	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af00	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ad90	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab30	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac0a	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aae0	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6addb	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af50	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6adb6	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a7e4	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa6e	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a85e	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a7cd	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab1a	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ad75	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a926	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa40	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6adde	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab94	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a9f4	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac71	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af22	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aed6	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab7a	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6b140	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a8ad	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6acca	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a7d9	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6accd	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aba4	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac49	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac7d	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6acc5	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a7d5	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af13	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6adba	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac08	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac3d	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ace4	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aae2	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a976	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aad8	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ae43	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ad65	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aeba	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa94	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aca2	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab14	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac2c	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a91c	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ada4	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6adf2	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ae4e	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa34	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ade9	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82de4b0c9d6adf6a716	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a8ea	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ad3f	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aace	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a8be	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82de4b0c9d6adf6a71e	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a9f8	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ae18	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa85	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af32	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a98f	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6acc4	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac3a	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aede	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab5a	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6acd1	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82de4b0c9d6adf6a730	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6adc8	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa70	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af70	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6adf7	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa16	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac12	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ad50	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6acb0	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6affe	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a927	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aeec	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa0c	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a916	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard

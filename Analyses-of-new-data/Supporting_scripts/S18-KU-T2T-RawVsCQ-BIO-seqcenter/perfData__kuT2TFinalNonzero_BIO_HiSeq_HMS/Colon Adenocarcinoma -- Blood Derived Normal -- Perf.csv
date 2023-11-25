@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.976296790885949,0.751481715674416,0.975947068804212,0.00623261774451712,0.963731362495553,0.988162775112871,0.00623261774451712,0.959892909380066,0.992001228228358,"Colon Adenocarcinoma","Blood Derived Normal","kuT2TFinalNonzero_BIO_HiSeq_HMS","metaKUT2TFinalNonzero_BIO_HiSeq_HMS",62,773,"Colon Adenocarcinoma","OtherCancerType"

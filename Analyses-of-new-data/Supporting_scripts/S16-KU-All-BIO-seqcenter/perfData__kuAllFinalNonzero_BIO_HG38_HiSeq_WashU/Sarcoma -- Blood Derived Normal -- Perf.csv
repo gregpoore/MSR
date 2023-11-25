@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.974747474747475,0.929755675950076,0.981076388888889,0.00976055113796955,0.961946060189207,1,0.00976055113796955,0.955934875248919,1,"Sarcoma","Blood Derived Normal","kuAllFinalNonzero_BIO_HG38_HiSeq_WashU","metaKUAllFinalNonzero_BIO_HiSeq_WashU",33,156,"Sarcoma","OtherCancerType"

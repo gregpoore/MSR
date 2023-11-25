@@ -1,0 +1,28 @@
+[1] "Lung Adenocarcinoma"
+Confusion Matrix and Statistics
+
+                    Reference
+Prediction           LungAdenocarcinoma OtherCancerType
+  LungAdenocarcinoma                 62              18
+  OtherCancerType                     8             747
+                                            
+               Accuracy : 0.9689            
+                 95% CI : (0.9547, 0.9796)  
+    No Information Rate : 0.9162            
+    P-Value [Acc > NIR] : 4.138e-10         
+                                            
+                  Kappa : 0.8096            
+                                            
+ Mcnemar's Test P-Value : 0.07756           
+                                            
+            Sensitivity : 0.88571           
+            Specificity : 0.97647           
+         Pos Pred Value : 0.77500           
+         Neg Pred Value : 0.98940           
+             Prevalence : 0.08383           
+         Detection Rate : 0.07425           
+   Detection Prevalence : 0.09581           
+      Balanced Accuracy : 0.93109           
+                                            
+       'Positive' Class : LungAdenocarcinoma
+                                            

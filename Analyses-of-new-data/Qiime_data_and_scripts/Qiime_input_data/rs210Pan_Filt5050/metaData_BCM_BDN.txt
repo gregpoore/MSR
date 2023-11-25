@@ -1,0 +1,198 @@
+sampleid	investigation	disease_type	experimental_strategy	data_submitting_center_label
+13722.58cfa82fe4b0c9d6adf6b9f2	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6be50	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b622	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b5eb	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b526	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b572	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82ee4b0c9d6adf6b06c	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b9d2	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bd6c	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bc0c	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c5d2	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bdaf	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c713	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bcaa	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bcf8	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b9d0	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c220	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b61f	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6ba3b	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bd60	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bde6	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c5a6	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bdda	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6ba23	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c6f6	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c1d8	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6be9e	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bb0c	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bfec	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bbd6	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b910	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d1e8	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b924	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6beaf	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b9fc	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bbe0	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c474	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c960	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6cc3a	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6ce82	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6cdbc	TCGA-DLBC	Lymphoid Neoplasm Diffuse Large B-cell Lymphoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6cd86	TCGA-DLBC	Lymphoid Neoplasm Diffuse Large B-cell Lymphoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c15a	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6cd46	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6cda2	TCGA-DLBC	Lymphoid Neoplasm Diffuse Large B-cell Lymphoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c040	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6cb24	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6cd6a	TCGA-DLBC	Lymphoid Neoplasm Diffuse Large B-cell Lymphoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6cea4	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6ce28	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6cd94	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c3ba	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6cc44	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bef4	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6cd92	TCGA-DLBC	Lymphoid Neoplasm Diffuse Large B-cell Lymphoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6ce52	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6ce4e	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c3a4	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bbfc	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6cdbe	TCGA-DLBC	Lymphoid Neoplasm Diffuse Large B-cell Lymphoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6ce7a	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bd76	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6cb2e	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6cdea	TCGA-DLBC	Lymphoid Neoplasm Diffuse Large B-cell Lymphoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6caea	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bb8a	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c008	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6ce48	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6cabe	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d302	TCGA-KICH	Kidney Chromophobe	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6ced4	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c3bc	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6ba72	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c1d2	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bbca	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6ce76	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6cf31	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d432	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d306	TCGA-KICH	Kidney Chromophobe	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d2ee	TCGA-KICH	Kidney Chromophobe	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c6a8	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b832	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c43e	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d436	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d2ea	TCGA-KICH	Kidney Chromophobe	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c288	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6ba12	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b94c	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bc58	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b8b6	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bc5c	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bc66	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b9fa	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82ee4b0c9d6adf6af92	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6ba18	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bc96	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6ce80	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b9e6	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c775	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bd0f	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6ccb8	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6ba89	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d1fe	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6cb7e	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bca4	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d4ec	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b8e6	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d482	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d10a	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d1ae	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b2ca	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b3ee	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82ee4b0c9d6adf6b1f2	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6baf0	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b40a	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82ee4b0c9d6adf6afe3	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b3c0	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b454	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82ee4b0c9d6adf6ae0e	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b848	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b2fc	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b4c4	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b83d	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b810	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c8f0	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c19e	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c03e	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bdfc	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6be4a	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c6a3	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6ba46	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bdec	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c013	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bfbe	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c472	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c796	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c658	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d592	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d59b	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b9e4	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c241	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d5a1	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d100	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d594	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d2e4	TCGA-KICH	Kidney Chromophobe	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d595	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c2fb	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d0b5	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d55c	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d0c1	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6cfee	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c252	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d1d6	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c1b4	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c162	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d030	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d304	TCGA-KICH	Kidney Chromophobe	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b8b1	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6ce4a	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c807	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6cf40	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c79f	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c17a	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c78e	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d2a3	TCGA-KICH	Kidney Chromophobe	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c180	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b89e	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c186	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d5ba	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d2e8	TCGA-KICH	Kidney Chromophobe	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6ca66	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bc50	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c1ac	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d30c	TCGA-KICH	Kidney Chromophobe	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c6ec	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d20a	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c6dc	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c6f8	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6cfb4	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c18e	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c68e	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b8a0	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c17c	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c933	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d510	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bf51	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bdbe	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c282	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bc08	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d485	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b907	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c8f6	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c97e	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d472	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c1b0	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c2e2	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c917	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine

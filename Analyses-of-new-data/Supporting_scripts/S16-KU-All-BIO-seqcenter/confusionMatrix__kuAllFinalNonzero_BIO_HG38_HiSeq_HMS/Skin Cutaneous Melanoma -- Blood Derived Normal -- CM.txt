@@ -1,0 +1,28 @@
+[1] "Skin Cutaneous Melanoma"
+Confusion Matrix and Statistics
+
+                       Reference
+Prediction              SkinCutaneousMelanoma OtherCancerType
+  SkinCutaneousMelanoma                   103              44
+  OtherCancerType                          15             673
+                                               
+               Accuracy : 0.9293               
+                 95% CI : (0.9098, 0.9458)     
+    No Information Rate : 0.8587               
+    P-Value [Acc > NIR] : 1.273e-10            
+                                               
+                  Kappa : 0.736                
+                                               
+ Mcnemar's Test P-Value : 0.0002671            
+                                               
+            Sensitivity : 0.8729               
+            Specificity : 0.9386               
+         Pos Pred Value : 0.7007               
+         Neg Pred Value : 0.9782               
+             Prevalence : 0.1413               
+         Detection Rate : 0.1234               
+   Detection Prevalence : 0.1760               
+      Balanced Accuracy : 0.9058               
+                                               
+       'Positive' Class : SkinCutaneousMelanoma
+                                               

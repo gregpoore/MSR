@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.976154284628539,0.91559660653084,0.978174603174603,0.0112735721281716,0.956078807826272,1,0.0112735721281716,0.949135805731187,1,"Kidney Renal Clear Cell Carcinoma","Primary Tumor","kuT2TFinalNonzero_BIO_HiSeq_BCM","metaKUT2TFinalNonzero_BIO_HiSeq_BCM",38,277,"Kidney Renal Clear Cell Carcinoma","OtherCancerType"

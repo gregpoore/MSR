@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.985128017665841,0.88594789868816,0.985858657429276,0.00275280663427208,0.9804632555697,0.991254059288852,0.00275280663427208,0.978767897433714,0.992949417424838,"Esophageal Carcinoma","Primary Tumor","kuT2TFinalNonzero_BIO_HiSeq_RNA_CQ_CMS","metaKUT2TFinalNonzero_BIO_HiSeq_CMS",184,1457,"Esophageal Carcinoma","OtherCancerType"

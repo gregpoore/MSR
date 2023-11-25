@@ -1,0 +1,190 @@
+sampleid	investigation	disease_type	experimental_strategy	data_submitting_center_label
+13722.58cfa83ce4b0c9d6adf72f0b	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72eee	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa830e4b0c9d6adf6c1c4	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72f5b	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf73182	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a59f	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a4cc	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a61c	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a6fc	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf73108	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf73151	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a609	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72f34	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf73100	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf7320a	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72ea5	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a454	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf73204	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a5aa	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf7311e	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf731e8	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a683	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a585	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a524	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a550	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a608	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf730d0	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a4c4	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72e7e	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa830e4b0c9d6adf6bb9e	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf730de	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a696	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a54a	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a700	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a57a	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a6f0	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf7311c	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a562	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a5fa	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf7316c	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a605	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf730c2	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a6a8	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf7311a	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a593	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a621	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a686	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72ef5	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72f85	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72e4e	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf73133	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a702	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72e94	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a5f5	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a508	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a4b6	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a6c6	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf7310a	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a4fe	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72eea	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a648	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72f6e	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72e90	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a692	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a5da	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf7312e	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf7314e	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a68d	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a576	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72fca	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa830e4b0c9d6adf6bdbc	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a595	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf731b4	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a4da	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72fc7	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a670	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf731e4	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf7309c	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a6b4	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf73140	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf731c2	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72fe0	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf73187	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72eaf	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf7314a	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf73150	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72ef9	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72edd	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a4b0	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a4dc	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf7304e	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a490	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a5e4	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a5f4	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a4fa	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf731da	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a6f6	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72ebb	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a516	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a442	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a44d	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72e9e	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa830e4b0c9d6adf6bb92	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72e92	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf730bc	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a5d1	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a638	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a492	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a4ba	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a690	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a4aa	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a520	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf731d4	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a540	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a6e4	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72f12	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a6b0	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf73114	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a4a4	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a67c	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf730c7	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a582	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a4f8	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a5ba	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a62e	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a567	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa830e4b0c9d6adf6bde8	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72f1d	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a4fc	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a5c5	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72fde	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa830e4b0c9d6adf6bdd2	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72f83	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf730e4	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a560	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a50a	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72fe8	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72ea4	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72ed4	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a5ac	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a4ae	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a453	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72e4f	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72ee1	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a5bc	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa830e4b0c9d6adf6bc3f	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a4c0	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a4ee	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72ee8	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a5e8	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf731bc	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72ebf	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a646	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a51e	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a563	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a4bc	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf73071	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf7310c	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a64c	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a5cb	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa830e4b0c9d6adf6be2c	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72ec9	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a612	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a494	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a6aa	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a6b2	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a446	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf7314c	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a46c	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a44b	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a6f4	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a5ca	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a688	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72ec0	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a500	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72ed6	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a6f8	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a704	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a512	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a496	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf730f3	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a615	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a5d6	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a480	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a5e6	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf7305a	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a6de	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa830e4b0c9d6adf6bbb0	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa830e4b0c9d6adf6ba4e	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine

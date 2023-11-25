@@ -1,0 +1,32 @@
+[1] "Kidney Renal Papillary Cell Carcinoma"
+Confusion Matrix and Statistics
+
+                                   Reference
+Prediction                          KidneyRenalPapillaryCellCarcinoma
+  KidneyRenalPapillaryCellCarcinoma                                23
+  OtherCancerType                                                  12
+                                   Reference
+Prediction                          OtherCancerType
+  KidneyRenalPapillaryCellCarcinoma              10
+  OtherCancerType                               152
+                                                           
+               Accuracy : 0.8883                           
+                 95% CI : (0.8358, 0.9287)                 
+    No Information Rate : 0.8223                           
+    P-Value [Acc > NIR] : 0.007366                         
+                                                           
+                  Kappa : 0.6091                           
+                                                           
+ Mcnemar's Test P-Value : 0.831170                         
+                                                           
+            Sensitivity : 0.6571                           
+            Specificity : 0.9383                           
+         Pos Pred Value : 0.6970                           
+         Neg Pred Value : 0.9268                           
+             Prevalence : 0.1777                           
+         Detection Rate : 0.1168                           
+   Detection Prevalence : 0.1675                           
+      Balanced Accuracy : 0.7977                           
+                                                           
+       'Positive' Class : KidneyRenalPapillaryCellCarcinoma
+                                                           

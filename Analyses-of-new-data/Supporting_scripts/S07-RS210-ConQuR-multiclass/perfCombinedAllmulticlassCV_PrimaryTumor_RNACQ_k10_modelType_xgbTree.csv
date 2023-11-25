@@ -1,0 +1,15 @@
+"","x"
+"logLoss",0.869498126296948
+"AUC",0.934484390960368
+"prAUC",0.346894584283152
+"Accuracy",0.910825199645075
+"Kappa",0.880218024800638
+"Mean_F1",NA
+"Mean_Sensitivity",0.331911151618236
+"Mean_Specificity",0.992126972231366
+"Mean_Pos_Pred_Value",NA
+"Mean_Neg_Pred_Value",0.991807765584245
+"Mean_Precision",NA
+"Mean_Recall",0.331911151618236
+"Mean_Detection_Rate",0.0650589428317911
+"Mean_Balanced_Accuracy",0.662019061924801

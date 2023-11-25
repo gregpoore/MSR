@@ -1,0 +1,28 @@
+[1] "Kidney Renal Clear Cell Carcinoma"
+Confusion Matrix and Statistics
+
+                   Reference
+Prediction          PrimaryTumor SolidTissueNormal
+  PrimaryTumor                22                15
+  SolidTissueNormal           16                18
+                                          
+               Accuracy : 0.5634          
+                 95% CI : (0.4405, 0.6809)
+    No Information Rate : 0.5352          
+    P-Value [Acc > NIR] : 0.3616          
+                                          
+                  Kappa : 0.1242          
+                                          
+ Mcnemar's Test P-Value : 1.0000          
+                                          
+            Sensitivity : 0.5789          
+            Specificity : 0.5455          
+         Pos Pred Value : 0.5946          
+         Neg Pred Value : 0.5294          
+             Prevalence : 0.5352          
+         Detection Rate : 0.3099          
+   Detection Prevalence : 0.5211          
+      Balanced Accuracy : 0.5622          
+                                          
+       'Positive' Class : PrimaryTumor    
+                                          

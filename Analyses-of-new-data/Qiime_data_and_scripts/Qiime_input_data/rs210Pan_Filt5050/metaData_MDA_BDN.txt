@@ -1,0 +1,223 @@
+sampleid	investigation	disease_type	experimental_strategy	data_submitting_center_label
+13722.58cfa832e4b0c9d6adf6ce15	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c788	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c644	TCGA-STAD	Stomach Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d57c	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d57e	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d583	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d5a7	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d588	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d39e	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d598	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d3b4	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d468	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d088	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cfde	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d47e	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d41e	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d620	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cf1e	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d554	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d640	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d846	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d45a	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d5f9	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d272	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d652	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d530	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d446	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d47c	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c5be	TCGA-STAD	Stomach Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c5fa	TCGA-STAD	Stomach Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cee1	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6ce1c	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c7ca	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d14e	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c919	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cf06	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cffa	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c8a4	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d4e0	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d41c	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d4b7	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d17a	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d440	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d4e2	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d4c8	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d5db	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d4d0	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d384	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d3fd	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cba7	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d844	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d0ae	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d5df	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d492	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d60c	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d48e	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6ca7e	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c4c6	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c6c0	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c704	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c5d0	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c504	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c5b6	TCGA-STAD	Stomach Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cbed	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6ce8e	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6ce90	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cf9c	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cec9	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c929	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6ccfc	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6ced9	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cb10	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cfaf	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d216	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d4af	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d488	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d3ec	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cef2	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d264	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c5b2	TCGA-STAD	Stomach Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa830e4b0c9d6adf6be7c	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c6bc	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa830e4b0c9d6adf6be9b	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa830e4b0c9d6adf6bf89	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c8b3	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c700	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d1fc	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d3f8	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6ce5e	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cdd6	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6ca13	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6ca40	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c3f4	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c390	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c410	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa830e4b0c9d6adf6c262	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6ce94	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d3f1	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d16a	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d122	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d4a4	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cfd0	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cac0	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cb20	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cc62	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cc5e	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cc8a	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6ce44	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cafa	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6caf4	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6ccec	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c41e	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c516	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cecb	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa830e4b0c9d6adf6c24a	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c946	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c72c	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c40c	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c813	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c808	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c749	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c71c	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c6fa	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cb16	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cbb2	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6ccfe	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d3f9	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d124	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d12a	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cdd1	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d14f	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d23c	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d3fc	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d244	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d63e	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d3f4	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d648	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d4e9	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d148	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d422	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d262	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d040	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c910	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cafc	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cea2	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d48c	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c797	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c579	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cd48	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6ce0a	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cb0c	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6ce86	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d022	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d090	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cfd4	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d1cc	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d4c4	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cfc4	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c45c	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d204	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c614	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c942	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d22a	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cf8b	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cb94	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d0ce	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cf54	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d43c	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d002	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d22e	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6ceb4	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cdd0	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cd19	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cda4	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cd4a	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cff2	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d4bc	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d47a	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d099	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d5ce	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c9b9	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6ca52	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c920	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d22c	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d4de	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d4e8	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d4ac	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cf4c	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d19e	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cf12	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c8c6	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c7f0	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cafe	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cbf3	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c863	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6ce08	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6ccfa	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cd56	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cdd8	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6ce04	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cf9a	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c408	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa830e4b0c9d6adf6c25c	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c716	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c7ec	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d5fc	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cd98	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cfe2	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6ce56	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d0bd	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d5f3	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d392	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d4ad	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d217	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d046	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d476	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d406	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d4c1	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d658	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d09e	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6ca7a	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c7f8	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science

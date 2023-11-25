@@ -1,0 +1,1013 @@
+sampleid	investigation	disease_type	experimental_strategy	data_submitting_center_label
+13767.58cfa83be4b0c9d6adf72a52	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf710ca	TCGA-SKCM	Skin Cutaneous Melanoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6ee70	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf6fcde	TCGA-COAD	Colon Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa836e4b0c9d6adf6f9e0	TCGA-THCA	Thyroid Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa836e4b0c9d6adf6f937	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6d856	TCGA-LUSC	Lung Squamous Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70e73	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6da71	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70bcd	TCGA-LUSC	Lung Squamous Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e530	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf704b7	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e7ea	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6ef64	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf707e4	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf6feaa	TCGA-COAD	Colon Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71b48	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72756	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70bde	TCGA-UCS	Uterine Carcinosarcoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70a1c	TCGA-LGG	Brain Lower Grade Glioma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf7089c	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf715c2	TCGA-PCPG	Pheochromocytoma and Paraganglioma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b66	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71a69	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf6fce2	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c60	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a1d	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6dd18	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72094	TCGA-MESO	Mesothelioma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf7055b	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b1d	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70b8c	TCGA-SKCM	Skin Cutaneous Melanoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf714c4	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf708ec	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e81a	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71bb2	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa832e4b0c9d6adf6d746	TCGA-LUSC	Lung Squamous Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6eed0	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70d76	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf728b2	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70a0c	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70c6e	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72198	TCGA-TGCT	Testicular Germ Cell Tumors	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a47	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72aaa	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf7077c	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6ea40	TCGA-THCA	Thyroid Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6dcea	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa836e4b0c9d6adf6f58a	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf7269d	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72869	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a60	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72bec	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a2d	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6dc00	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf7158f	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf71f40	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72bb6	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72bf4	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71ae6	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70e96	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72daa	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b4e	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a63	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72bee	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71d46	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d5c	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf7063e	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d8c	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a5a	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72cae	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71dd5	TCGA-PAAD	Pancreatic Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf727c6	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b98	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72be6	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf709da	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c20	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf728d0	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72da8	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72ccc	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72cbc	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c1d	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72afd	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c0e	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b44	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d2c	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b17	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e0cc	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c8c	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72dca	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa832e4b0c9d6adf6d6ff	TCGA-LUSC	Lung Squamous Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72ac0	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72ba2	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c86	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a19	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70776	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72843	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71694	TCGA-PCPG	Pheochromocytoma and Paraganglioma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c2c	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70db2	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b0a	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72dcc	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa836e4b0c9d6adf6f55a	TCGA-PAAD	Pancreatic Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71a96	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf715a9	TCGA-LGG	Brain Lower Grade Glioma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70ce2	TCGA-ACC	Adrenocortical Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70992	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b50	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72ab8	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b42	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71759	TCGA-LGG	Brain Lower Grade Glioma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70c8e	TCGA-UCS	Uterine Carcinosarcoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70f78	TCGA-DLBC	Lymphoid Neoplasm Diffuse Large B-cell Lymphoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6da8b	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a07	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa836e4b0c9d6adf6f5b4	TCGA-LGG	Brain Lower Grade Glioma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e3c3	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6eb13	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e0a0	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e334	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a90	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6dc59	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6f104	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e193	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6ed2c	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf7288a	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72bc6	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a50	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf7140e	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6ec60	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72940	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e4e5	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e48e	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6eabe	TCGA-SKCM	Skin Cutaneous Melanoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a1b	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf7019c	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72288	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72060	TCGA-MESO	Mesothelioma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6df48	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf71052	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6ece2	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf728f2	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a45	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf7013a	TCGA-COAD	Colon Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf729ba	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6dafa	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf728f8	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71cf6	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72bfa	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6dae8	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf7296d	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72923	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c72	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72aec	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf728d2	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c44	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c42	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e960	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d92	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf7297e	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c8e	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b06	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf729d4	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71cbc	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf7276a	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf7251c	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71e2c	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf728cc	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf705b7	TCGA-LUSC	Lung Squamous Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72db8	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf729b8	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf721fa	TCGA-TGCT	Testicular Germ Cell Tumors	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d55	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf7292e	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d40	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf703f2	TCGA-PAAD	Pancreatic Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72bda	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72bff	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf7006a	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6d9b1	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70ac0	TCGA-ACC	Adrenocortical Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b08	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf729d2	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d6c	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf7257e	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72882	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b10	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72ce6	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72cf6	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf729cc	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72202	TCGA-TGCT	Testicular Germ Cell Tumors	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c95	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d38	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e874	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72980	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf7276f	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf700be	TCGA-READ	Rectum Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf728d8	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf713ec	TCGA-COAD	Colon Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72ad3	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70e9a	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72ae8	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e2ea	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70961	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf71ffa	TCGA-LUSC	Lung Squamous Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf7091b	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf7174d	TCGA-LGG	Brain Lower Grade Glioma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72acf	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70e78	TCGA-UCS	Uterine Carcinosarcoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf71408	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf701ac	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6df72	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6eeae	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf712da	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf703cd	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e471	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf727b0	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf70256	TCGA-THCA	Thyroid Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b8c	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf7139a	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf7037a	TCGA-THCA	Thyroid Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf7143f	TCGA-MESO	Mesothelioma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70966	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf71280	TCGA-LGG	Brain Lower Grade Glioma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf708dc	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf70374	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf728e2	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70f76	TCGA-COAD	Colon Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70a51	TCGA-LUSC	Lung Squamous Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6ec44	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70834	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6ec5a	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6edda	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf7002c	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf703d4	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf728da	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6ee94	TCGA-LGG	Brain Lower Grade Glioma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a91	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf71253	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6efa0	TCGA-THCA	Thyroid Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf71422	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e271	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b86	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6eebe	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6ee82	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf6fe26	TCGA-THCA	Thyroid Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf728e8	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72cce	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf714da	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70a50	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf7289b	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf723fa	TCGA-TGCT	Testicular Germ Cell Tumors	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70ae0	TCGA-ACC	Adrenocortical Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf728e4	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf7077a	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6dc7d	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6ed1a	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6db9f	TCGA-LUSC	Lung Squamous Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e09a	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6deca	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf71469	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf709cc	TCGA-LUSC	Lung Squamous Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70e24	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72472	TCGA-UVM	Uveal Melanoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e225	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e52e	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf716fc	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf720fc	TCGA-SKCM	Skin Cutaneous Melanoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf707c2	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a82	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf7104a	TCGA-PAAD	Pancreatic Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72aa4	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf71fa0	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf702c0	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72758	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf729c8	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf728fa	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf71120	TCGA-LGG	Brain Lower Grade Glioma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c80	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa836e4b0c9d6adf6f49e	TCGA-LGG	Brain Lower Grade Glioma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6d956	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf7112a	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6f101	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e332	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf6fe3a	TCGA-KICH	Kidney Chromophobe	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf7284d	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b78	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf70002	TCGA-THCA	Thyroid Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72ac9	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72956	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c74	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d22	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e06c	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c3e	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c54	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf6fef2	TCGA-COAD	Colon Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c3a	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70735	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72adb	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a40	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72db6	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e581	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf700b1	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71c44	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70685	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71cf8	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72bdc	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b4c	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70cc2	TCGA-ACC	Adrenocortical Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b34	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf705a6	TCGA-READ	Rectum Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72dbc	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c56	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70628	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71d60	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b88	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a7e	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf729b0	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf728fe	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72cb1	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa832e4b0c9d6adf6d6c6	TCGA-LUSC	Lung Squamous Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72695	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72ca4	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72ca6	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6dcb9	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c1c	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf717ad	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d5a	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72dc2	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf7155c	TCGA-PCPG	Pheochromocytoma and Paraganglioma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d13	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c0a	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72bba	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72811	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d48	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b9a	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e7f8	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72cd4	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d10	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d9e	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf702dc	TCGA-PAAD	Pancreatic Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d4c	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c78	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf702f2	TCGA-PAAD	Pancreatic Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b4a	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c08	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf728ec	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf710a0	TCGA-PAAD	Pancreatic Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72914	TCGA-PAAD	Pancreatic Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf729a4	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf7200c	TCGA-SKCM	Skin Cutaneous Melanoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf727ce	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf721de	TCGA-THYM	Thymoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72800	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c02	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b60	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf704dd	TCGA-PAAD	Pancreatic Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d7b	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a94	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c9a	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72afb	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70dd6	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a56	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71e2e	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72ab6	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72bd4	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a11	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b90	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72331	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c24	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72aee	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72bfe	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf728e6	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72ad9	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c17	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c10	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a78	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72e09	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71b90	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6da4a	TCGA-LUSC	Lung Squamous Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa836e4b0c9d6adf6fc2c	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e1a6	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e4ec	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf6ff52	TCGA-COAD	Colon Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf7162e	TCGA-PCPG	Pheochromocytoma and Paraganglioma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf71042	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf7177d	TCGA-PCPG	Pheochromocytoma and Paraganglioma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf704a4	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e6f3	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf727a4	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa836e4b0c9d6adf6f4ac	TCGA-PAAD	Pancreatic Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72298	TCGA-PAAD	Pancreatic Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72030	TCGA-MESO	Mesothelioma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70cda	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf721ea	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf70370	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf7299f	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf7033b	TCGA-THCA	Thyroid Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b1a	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70aaa	TCGA-LGG	Brain Lower Grade Glioma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70f9a	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa836e4b0c9d6adf6fa30	TCGA-THCA	Thyroid Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6ebbe	TCGA-THCA	Thyroid Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf709ae	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70cd6	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e826	TCGA-THCA	Thyroid Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf7254e	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6de24	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71e76	TCGA-UVM	Uveal Melanoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf71110	TCGA-PAAD	Pancreatic Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf713c2	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf6fd8b	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6ebba	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6dd70	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6ef32	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa832e4b0c9d6adf6d715	TCGA-LUSC	Lung Squamous Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa836e4b0c9d6adf6f4e2	TCGA-LGG	Brain Lower Grade Glioma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf6ff00	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72130	TCGA-THYM	Thymoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6db23	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6edd2	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c52	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf6fcec	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6d968	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa836e4b0c9d6adf6fa0a	TCGA-THCA	Thyroid Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa836e4b0c9d6adf6f4d6	TCGA-LGG	Brain Lower Grade Glioma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6ded8	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6ef54	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa836e4b0c9d6adf6f6d4	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e59b	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6ea74	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e6e6	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6dbd2	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6dd02	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72ab0	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf723e0	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf728ee	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72bf6	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b52	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c5e	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70a00	TCGA-LGG	Brain Lower Grade Glioma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b22	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e67e	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70700	TCGA-LUSC	Lung Squamous Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b03	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf703ae	TCGA-COAD	Colon Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6dc9a	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6d90d	TCGA-LUSC	Lung Squamous Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6dfa4	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6dd40	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70ae9	TCGA-SKCM	Skin Cutaneous Melanoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72066	TCGA-MESO	Mesothelioma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b3c	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf704c7	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf7165b	TCGA-PCPG	Pheochromocytoma and Paraganglioma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72950	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a87	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70b4c	TCGA-LUSC	Lung Squamous Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b5a	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf7153c	TCGA-PCPG	Pheochromocytoma and Paraganglioma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf6fe9c	TCGA-COAD	Colon Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf715cc	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6d8e4	TCGA-LUSC	Lung Squamous Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70854	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6ec7c	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf70258	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b73	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6ec12	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e830	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf6fdee	TCGA-KICH	Kidney Chromophobe	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf6fdae	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a95	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e310	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6db1c	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf7182e	TCGA-LGG	Brain Lower Grade Glioma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72927	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf6fdb2	TCGA-KICH	Kidney Chromophobe	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e437	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71840	TCGA-LGG	Brain Lower Grade Glioma	RNA-Seq	University of North Carolina
+13767.58cfa836e4b0c9d6adf6f5aa	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72bc0	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6ec8a	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6eab7	TCGA-SKCM	Skin Cutaneous Melanoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6ee26	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6f14e	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf7208e	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72ae4	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf70368	TCGA-READ	Rectum Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e3b3	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6d8be	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a9e	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72ba9	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70e19	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72194	TCGA-THYM	Thymoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6ed93	TCGA-LGG	Brain Lower Grade Glioma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70468	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf712e4	TCGA-MESO	Mesothelioma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72465	TCGA-THYM	Thymoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf7163b	TCGA-PCPG	Pheochromocytoma and Paraganglioma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf708cf	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e4cc	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b02	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa832e4b0c9d6adf6d832	TCGA-LUSC	Lung Squamous Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b6a	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70cce	TCGA-UCS	Uterine Carcinosarcoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70ccc	TCGA-ACC	Adrenocortical Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72877	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf70052	TCGA-READ	Rectum Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6dfac	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf6fc7a	TCGA-LGG	Brain Lower Grade Glioma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf71578	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6ebe2	TCGA-THCA	Thyroid Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf709bd	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70423	TCGA-COAD	Colon Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf718de	TCGA-LGG	Brain Lower Grade Glioma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a17	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa836e4b0c9d6adf6f479	TCGA-PAAD	Pancreatic Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf710c8	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72aae	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf6feac	TCGA-COAD	Colon Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a9c	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf700ba	TCGA-THCA	Thyroid Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72bc8	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf7090e	TCGA-LGG	Brain Lower Grade Glioma	RNA-Seq	University of North Carolina
+13767.58cfa836e4b0c9d6adf6fb64	TCGA-THCA	Thyroid Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf7298e	TCGA-PAAD	Pancreatic Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf6fe74	TCGA-PAAD	Pancreatic Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf7045e	TCGA-LUSC	Lung Squamous Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a37	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa836e4b0c9d6adf6fc35	TCGA-THCA	Thyroid Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa836e4b0c9d6adf6f472	TCGA-LGG	Brain Lower Grade Glioma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72aea	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6d8f4	TCGA-LUSC	Lung Squamous Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf723db	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa836e4b0c9d6adf6fb77	TCGA-THCA	Thyroid Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa836e4b0c9d6adf6f939	TCGA-THCA	Thyroid Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6df9a	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf708f3	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf709dc	TCGA-READ	Rectum Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72ab2	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf70104	TCGA-COAD	Colon Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf71053	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6ec47	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a98	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf728c2	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6ecfc	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e070	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a35	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72748	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70d84	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf700c2	TCGA-THCA	Thyroid Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b48	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e8f0	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70de2	TCGA-LUSC	Lung Squamous Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e7d7	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6f164	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa832e4b0c9d6adf6d800	TCGA-LUSC	Lung Squamous Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa836e4b0c9d6adf6fb5a	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72ac7	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e712	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e840	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70b82	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf71ee6	TCGA-UVM	Uveal Melanoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d83	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6ea4b	TCGA-THCA	Thyroid Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72bf8	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72ad7	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72772	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72bbe	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b9c	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf720aa	TCGA-MESO	Mesothelioma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72884	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72ba8	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf707cc	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d63	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6eb62	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72006	TCGA-CHOL	Cholangiocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6ddce	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72aab	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72bac	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf71fdc	TCGA-UVM	Uveal Melanoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72ab4	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf70148	TCGA-COAD	Colon Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b38	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c2e	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf70193	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf7278a	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6dac4	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72892	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf721a0	TCGA-THYM	Thymoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71d61	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6dbf0	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b76	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf728be	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf716c2	TCGA-PCPG	Pheochromocytoma and Paraganglioma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf729aa	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d54	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6d96b	TCGA-LUSC	Lung Squamous Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d52	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf728ea	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf7055c	TCGA-LUSC	Lung Squamous Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d28	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72cd6	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d0e	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72ce0	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72cd8	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6da04	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72af2	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72cf7	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d2e	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d1c	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf728fc	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c48	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d02	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72886	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b11	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72742	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72cf2	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d1d	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6d865	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf728ae	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72dd2	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6d94a	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d2a	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72da0	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf7030c	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d32	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b7a	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa832e4b0c9d6adf6d812	TCGA-LUSC	Lung Squamous Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf728bc	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf724e6	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf725d6	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72cfb	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e558	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b1e	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72cfa	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e800	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72cee	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d08	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72cc8	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d24	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72cd0	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d25	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72bcc	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d0a	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf71494	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b7d	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b64	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b0c	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72ae2	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71697	TCGA-LGG	Brain Lower Grade Glioma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a6e	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf716e2	TCGA-PCPG	Pheochromocytoma and Paraganglioma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72cea	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72bf9	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72abe	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c76	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf702b2	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72cb4	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c58	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf729e2	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72ce4	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf729e3	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72ba6	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70433	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf723b4	TCGA-THYM	Thymoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b84	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b36	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d66	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c91	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c36	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c16	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf7042a	TCGA-COAD	Colon Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b7c	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72cb6	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71854	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70f51	TCGA-LUSC	Lung Squamous Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b9e	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a15	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d04	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72ac2	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf7257a	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6dfcc	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71df6	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf727d5	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71726	TCGA-PCPG	Pheochromocytoma and Paraganglioma	RNA-Seq	University of North Carolina
+13767.58cfa832e4b0c9d6adf6d808	TCGA-LUSC	Lung Squamous Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71622	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70c77	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a3f	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70f18	TCGA-DLBC	Lymphoid Neoplasm Diffuse Large B-cell Lymphoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf723f8	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70c8c	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6def7	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a2f	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6eaca	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71626	TCGA-PCPG	Pheochromocytoma and Paraganglioma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf729ca	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a1f	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf707c7	TCGA-LGG	Brain Lower Grade Glioma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e263	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72abc	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf7176f	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a7c	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72858	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72bca	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e9e2	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b32	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a80	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70716	TCGA-LUSC	Lung Squamous Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6df57	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b27	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b2e	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6f174	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf700f8	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf6fd7c	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf6fd84	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf6fee2	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70da6	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6eeb2	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa832e4b0c9d6adf6d82c	TCGA-LUSC	Lung Squamous Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6ee3c	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf70358	TCGA-READ	Rectum Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70bf7	TCGA-UCS	Uterine Carcinosarcoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf7111c	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70fca	TCGA-UCS	Uterine Carcinosarcoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b82	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf7066a	TCGA-LUSC	Lung Squamous Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf70054	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72788	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71b8a	TCGA-DLBC	Lymphoid Neoplasm Diffuse Large B-cell Lymphoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e812	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71b34	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf715c6	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a0d	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf708f0	TCGA-LGG	Brain Lower Grade Glioma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf728ba	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c29	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf723f0	TCGA-TGCT	Testicular Germ Cell Tumors	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70dae	TCGA-ACC	Adrenocortical Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf709aa	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a30	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71c32	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf70106	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70d16	TCGA-ACC	Adrenocortical Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf710d1	TCGA-COAD	Colon Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf700fe	TCGA-READ	Rectum Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf7057d	TCGA-COAD	Colon Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e6c8	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf7193c	TCGA-PCPG	Pheochromocytoma and Paraganglioma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6ee92	TCGA-LGG	Brain Lower Grade Glioma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a0b	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6eb32	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e8a2	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70abe	TCGA-ACC	Adrenocortical Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6ebde	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf71455	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf6fdc2	TCGA-KICH	Kidney Chromophobe	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6eb70	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf71414	TCGA-COAD	Colon Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6ed97	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6d8c1	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa836e4b0c9d6adf6fabc	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf7000e	TCGA-THCA	Thyroid Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70da8	TCGA-LUSC	Lung Squamous Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa836e4b0c9d6adf6fa14	TCGA-THCA	Thyroid Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e467	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6dbe4	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf6fc9e	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e074	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf6fe24	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6f030	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a23	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72bce	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa836e4b0c9d6adf6f8d2	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a7a	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70493	TCGA-READ	Rectum Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf7079a	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf7003e	TCGA-READ	Rectum Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71c88	TCGA-PAAD	Pancreatic Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b15	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6de74	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72024	TCGA-MESO	Mesothelioma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf71554	TCGA-PCPG	Pheochromocytoma and Paraganglioma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6ed04	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b58	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72846	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70aac	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72038	TCGA-CHOL	Cholangiocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72af4	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf720ec	TCGA-TGCT	Testicular Germ Cell Tumors	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71c9e	TCGA-PAAD	Pancreatic Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf707fc	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b56	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72670	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71cba	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71614	TCGA-PAAD	Pancreatic Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf718ac	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e6fe	TCGA-THCA	Thyroid Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6d9c0	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf6fc86	TCGA-THCA	Thyroid Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e384	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e312	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa836e4b0c9d6adf6f87c	TCGA-PAAD	Pancreatic Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e32b	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e529	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6eb74	TCGA-THCA	Thyroid Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e5b9	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6d87d	TCGA-LUSC	Lung Squamous Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e0e6	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e663	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a4a	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d96	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6db9c	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b21	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6daf6	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72cda	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c38	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b13	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf729bc	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72caa	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d36	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf727ea	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c8a	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70682	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72ae6	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf7030a	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6eaba	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72af8	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c13	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72833	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d20	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72bae	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72bd6	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72bb7	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf728f4	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71e21	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf728de	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72da5	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf726b0	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72ca8	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72648	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72be4	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b40	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70455	TCGA-LUSC	Lung Squamous Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf729b6	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72ba0	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72921	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72850	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70430	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d6a	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b8a	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72db4	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72afe	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72bd2	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71bb3	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b46	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf728f6	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72ac4	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf727ae	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e481	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72cdb	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72880	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf7293e	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf729ae	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b80	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6df38	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72be9	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf729be	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72ac6	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72894	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf729ce	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6d8a2	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72dd0	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a3d	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6eac2	TCGA-THCA	Thyroid Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c19	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf729b4	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71bca	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6db3c	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e514	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72aa6	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72cbf	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72aba	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b0e	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf7072e	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d41	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf727f4	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b6e	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf6fe90	TCGA-COAD	Colon Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c04	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72cc4	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa832e4b0c9d6adf6d757	TCGA-LUSC	Lung Squamous Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d76	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d78	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72cc5	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b96	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d34	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d4e	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d88	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c4c	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72ba4	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71ab4	TCGA-SKCM	Skin Cutaneous Melanoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72780	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d71	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72cac	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf7258b	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf729b2	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72bb4	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b72	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf71efc	TCGA-CHOL	Cholangiocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a54	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70abc	TCGA-ACC	Adrenocortical Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72bb0	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c81	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6dadc	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72ad5	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c70	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72add	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c05	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c98	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72acd	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf728e0	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71884	TCGA-PCPG	Pheochromocytoma and Paraganglioma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72cb9	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72975	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72932	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72021	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70a4b	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72bd8	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d4a	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72bb2	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf728c0	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a43	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71b0c	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e766	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b54	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c28	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72d12	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf721be	TCGA-THYM	Thymoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a8e	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf6fd54	TCGA-KICH	Kidney Chromophobe	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70a0a	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a9f	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf6ffdd	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6ed8e	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70824	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf711b9	TCGA-COAD	Colon Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6d98b	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e48a	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71ad2	TCGA-LGG	Brain Lower Grade Glioma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6dcdc	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e84a	TCGA-THCA	Thyroid Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e3d5	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6eec4	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70f57	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b19	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6eba3	TCGA-THCA	Thyroid Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71928	TCGA-PCPG	Pheochromocytoma and Paraganglioma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf7287c	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e6c2	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf70354	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf6fe14	TCGA-KICH	Kidney Chromophobe	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e246	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c68	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6da44	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c88	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf7229a	TCGA-UVM	Uveal Melanoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c40	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf728d6	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72aca	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e292	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf713f6	TCGA-BLCA	Bladder Urothelial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a57	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf71ebc	TCGA-UVM	Uveal Melanoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e427	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70fe4	TCGA-LGG	Brain Lower Grade Glioma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72796	TCGA-PAAD	Pancreatic Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70740	TCGA-LUSC	Lung Squamous Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf710b0	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a86	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf719fa	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70980	TCGA-READ	Rectum Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a8a	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e274	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf717c7	TCGA-PCPG	Pheochromocytoma and Paraganglioma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72a27	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72bbc	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72c6c	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf70aa8	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf7148e	TCGA-LGG	Brain Lower Grade Glioma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf71803	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72af0	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72bc2	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa838e4b0c9d6adf7076a	TCGA-LUAD	Lung Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6d9d4	TCGA-LUSC	Lung Squamous Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e362	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6ecda	TCGA-THCA	Thyroid Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa837e4b0c9d6adf70350	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa833e4b0c9d6adf6df51	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf7216a	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa839e4b0c9d6adf71485	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e7c2	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e1b0	TCGA-LIHC	Liver Hepatocellular Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72aa2	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83be4b0c9d6adf72998	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72be8	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ae4b0c9d6adf718ea	TCGA-PRAD	Prostate Adenocarcinoma	RNA-Seq	University of North Carolina
+13767.58cfa835e4b0c9d6adf6ee64	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72ae0	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa834e4b0c9d6adf6e0dc	TCGA-BRCA	Breast Invasive Carcinoma	RNA-Seq	University of North Carolina
+13767.58cfa83ce4b0c9d6adf72b5e	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	RNA-Seq	University of North Carolina

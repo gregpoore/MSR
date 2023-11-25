@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.96412037037037,0.781221934589555,0.965353037766831,0.0144874582362822,0.93695814139619,0.993747934137472,0.0144874582362822,0.928035818307874,1,"Ovarian Serous Cystadenocarcinoma","Primary Tumor","kuAllFinalNonzero_BIO_T2T_HiSeq_BCM","metaKUAllFinalNonzero_BIO_HiSeq_BCM",27,288,"Ovarian Serous Cystadenocarcinoma","OtherCancerType"

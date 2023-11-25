@@ -1,0 +1,28 @@
+[1] "Prostate Adenocarcinoma"
+Confusion Matrix and Statistics
+
+                        Reference
+Prediction               ProstateAdenocarcinoma OtherCancerType
+  ProstateAdenocarcinoma                      9              13
+  OtherCancerType                            11             324
+                                                
+               Accuracy : 0.9328                
+                 95% CI : (0.9016, 0.9565)      
+    No Information Rate : 0.944                 
+    P-Value [Acc > NIR] : 0.8497                
+                                                
+                  Kappa : 0.3929                
+                                                
+ Mcnemar's Test P-Value : 0.8383                
+                                                
+            Sensitivity : 0.45000               
+            Specificity : 0.96142               
+         Pos Pred Value : 0.40909               
+         Neg Pred Value : 0.96716               
+             Prevalence : 0.05602               
+         Detection Rate : 0.02521               
+   Detection Prevalence : 0.06162               
+      Balanced Accuracy : 0.70571               
+                                                
+       'Positive' Class : ProstateAdenocarcinoma
+                                                

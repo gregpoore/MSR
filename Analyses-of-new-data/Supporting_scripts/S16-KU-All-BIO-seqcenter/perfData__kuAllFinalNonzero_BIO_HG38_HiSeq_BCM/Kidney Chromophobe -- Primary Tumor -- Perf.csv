@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.986339622641509,0.948045725591626,0.985641025641026,0.00654529806168454,0.972812477172044,0.998469574110007,0.00654529806168454,0.968781455093277,1,"Kidney Chromophobe","Primary Tumor","kuAllFinalNonzero_BIO_HG38_HiSeq_BCM","metaKUAllFinalNonzero_BIO_HiSeq_BCM",50,265,"Kidney Chromophobe","OtherCancerType"

@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.722177419354839,0.0440627845475365,0.743590909090909,0.0272703567782997,0.690141991959884,0.797039826221934,0.0272703567782997,0.673347124983131,0.813834693198687,"Pancreatic Adenocarcinoma","Primary Tumor","kuT2TFinalNonzero_BIO_HiSeq_RNA_CQ_UNC","metaKUT2TFinalNonzero_BIO_HiSeq_UNC",20,992,"Pancreatic Adenocarcinoma","OtherCancerType"

@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.864360725563634,0.479894379761973,0.868739711934156,0.0431366953372337,0.784193342661102,0.953286081207211,0.0431366953372337,0.757626948026249,0.979852475842064,"Rectum Adenocarcinoma","Blood Derived Normal","kuT2TFinalNonzero_BIO_HiSeq_WGS_CQ_HMS","metaKUT2TFinalNonzero_BIO_HiSeq_HMS",34,801,"Rectum Adenocarcinoma","OtherCancerType"

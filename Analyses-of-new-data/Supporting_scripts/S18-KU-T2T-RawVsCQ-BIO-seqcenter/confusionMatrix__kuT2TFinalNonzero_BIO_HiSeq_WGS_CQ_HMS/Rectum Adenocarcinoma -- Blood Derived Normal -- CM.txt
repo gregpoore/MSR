@@ -1,0 +1,28 @@
+[1] "Rectum Adenocarcinoma"
+Confusion Matrix and Statistics
+
+                      Reference
+Prediction             RectumAdenocarcinoma OtherCancerType
+  RectumAdenocarcinoma                   21              24
+  OtherCancerType                        13             777
+                                              
+               Accuracy : 0.9557              
+                 95% CI : (0.9394, 0.9686)    
+    No Information Rate : 0.9593              
+    P-Value [Acc > NIR] : 0.7355              
+                                              
+                  Kappa : 0.5089              
+                                              
+ Mcnemar's Test P-Value : 0.1002              
+                                              
+            Sensitivity : 0.61765             
+            Specificity : 0.97004             
+         Pos Pred Value : 0.46667             
+         Neg Pred Value : 0.98354             
+             Prevalence : 0.04072             
+         Detection Rate : 0.02515             
+   Detection Prevalence : 0.05389             
+      Balanced Accuracy : 0.79384             
+                                              
+       'Positive' Class : RectumAdenocarcinoma
+                                              

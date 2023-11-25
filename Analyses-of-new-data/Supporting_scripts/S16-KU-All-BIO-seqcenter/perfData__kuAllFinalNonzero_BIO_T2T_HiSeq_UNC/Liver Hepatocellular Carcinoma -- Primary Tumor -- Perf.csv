@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.983722060252673,0.586165325162824,0.989285714285714,0.00568555534185221,0.978142230583575,1,0.00568555534185221,0.974640694229222,1,"Liver Hepatocellular Carcinoma","Primary Tumor","kuAllFinalNonzero_BIO_T2T_HiSeq_UNC","metaKUAllFinalNonzero_BIO_HiSeq_UNC",21,490,"Liver Hepatocellular Carcinoma","OtherCancerType"

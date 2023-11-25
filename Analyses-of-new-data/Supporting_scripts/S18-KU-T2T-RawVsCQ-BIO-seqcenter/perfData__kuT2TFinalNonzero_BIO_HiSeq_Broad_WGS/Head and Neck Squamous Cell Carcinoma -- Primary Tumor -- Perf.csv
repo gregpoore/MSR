@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.979854096520763,0.827743660581428,0.99520202020202,0.00380801057779075,0.987738456616803,1,0.00380801057779075,0.985393234967523,1,"Head and Neck Squamous Cell Carcinoma","Primary Tumor","kuT2TFinalNonzero_BIO_HiSeq_Broad_WGS","metaKUT2TFinalNonzero_BIO_HiSeq_Broad_WGS",27,330,"Head and Neck Squamous Cell Carcinoma","OtherCancerType"

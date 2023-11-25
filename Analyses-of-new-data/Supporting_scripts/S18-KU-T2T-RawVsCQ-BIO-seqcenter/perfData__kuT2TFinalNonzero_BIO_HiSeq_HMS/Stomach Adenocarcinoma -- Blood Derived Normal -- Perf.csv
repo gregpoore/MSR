@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.952274497849135,0.738291567205578,0.951600250626566,0.00981075784118123,0.932371518596807,0.970828982656326,0.00981075784118123,0.92632941308923,0.976871088163903,"Stomach Adenocarcinoma","Blood Derived Normal","kuT2TFinalNonzero_BIO_HiSeq_HMS","metaKUT2TFinalNonzero_BIO_HiSeq_HMS",78,757,"Stomach Adenocarcinoma","OtherCancerType"

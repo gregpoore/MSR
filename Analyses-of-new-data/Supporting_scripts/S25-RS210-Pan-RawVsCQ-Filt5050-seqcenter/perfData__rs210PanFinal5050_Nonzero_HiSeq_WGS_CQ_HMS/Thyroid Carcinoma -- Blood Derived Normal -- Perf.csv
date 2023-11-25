@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.808185423702195,0.351171668645937,0.812112398112398,0.0252925307997144,0.762539948667088,0.861684847557708,0.0252925307997144,0.746963156117581,0.877261640107216,"Thyroid Carcinoma","Blood Derived Normal","rs210PanFinal5050_Nonzero_HiSeq_WGS_CQ_HMS","metaRSFinal5050_Nonzero_HiSeq_HMS",68,749,"Thyroid Carcinoma","OtherCancerType"

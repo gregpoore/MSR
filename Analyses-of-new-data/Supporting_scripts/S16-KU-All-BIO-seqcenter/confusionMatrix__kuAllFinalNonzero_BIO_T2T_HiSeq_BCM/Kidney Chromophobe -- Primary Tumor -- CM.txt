@@ -1,0 +1,28 @@
+[1] "Kidney Chromophobe"
+Confusion Matrix and Statistics
+
+                   Reference
+Prediction          KidneyChromophobe OtherCancerType
+  KidneyChromophobe                43               8
+  OtherCancerType                   7             257
+                                           
+               Accuracy : 0.9524           
+                 95% CI : (0.9227, 0.9731) 
+    No Information Rate : 0.8413           
+    P-Value [Acc > NIR] : 6.779e-10        
+                                           
+                  Kappa : 0.8231           
+                                           
+ Mcnemar's Test P-Value : 1                
+                                           
+            Sensitivity : 0.8600           
+            Specificity : 0.9698           
+         Pos Pred Value : 0.8431           
+         Neg Pred Value : 0.9735           
+             Prevalence : 0.1587           
+         Detection Rate : 0.1365           
+   Detection Prevalence : 0.1619           
+      Balanced Accuracy : 0.9149           
+                                           
+       'Positive' Class : KidneyChromophobe
+                                           

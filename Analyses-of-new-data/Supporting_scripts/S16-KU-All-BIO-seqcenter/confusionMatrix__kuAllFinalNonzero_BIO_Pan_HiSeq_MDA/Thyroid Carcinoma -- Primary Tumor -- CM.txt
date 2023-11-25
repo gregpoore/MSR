@@ -1,0 +1,28 @@
+[1] "Thyroid Carcinoma"
+Confusion Matrix and Statistics
+
+                  Reference
+Prediction         ThyroidCarcinoma OtherCancerType
+  ThyroidCarcinoma               19              11
+  OtherCancerType                 4             223
+                                          
+               Accuracy : 0.9416          
+                 95% CI : (0.9056, 0.967) 
+    No Information Rate : 0.9105          
+    P-Value [Acc > NIR] : 0.04451         
+                                          
+                  Kappa : 0.6851          
+                                          
+ Mcnemar's Test P-Value : 0.12134         
+                                          
+            Sensitivity : 0.82609         
+            Specificity : 0.95299         
+         Pos Pred Value : 0.63333         
+         Neg Pred Value : 0.98238         
+             Prevalence : 0.08949         
+         Detection Rate : 0.07393         
+   Detection Prevalence : 0.11673         
+      Balanced Accuracy : 0.88954         
+                                          
+       'Positive' Class : ThyroidCarcinoma
+                                          

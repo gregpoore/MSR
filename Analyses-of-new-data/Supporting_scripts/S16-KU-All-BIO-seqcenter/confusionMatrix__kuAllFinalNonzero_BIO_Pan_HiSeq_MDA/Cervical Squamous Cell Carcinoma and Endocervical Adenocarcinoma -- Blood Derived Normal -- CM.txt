@@ -1,0 +1,32 @@
+[1] "Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma"
+Confusion Matrix and Statistics
+
+                                                            Reference
+Prediction                                                   CervicalSquamousCellCarcinomaandEndocervicalAdenocarcinoma
+  CervicalSquamousCellCarcinomaandEndocervicalAdenocarcinoma                                                         29
+  OtherCancerType                                                                                                    11
+                                                            Reference
+Prediction                                                   OtherCancerType
+  CervicalSquamousCellCarcinomaandEndocervicalAdenocarcinoma              18
+  OtherCancerType                                                        177
+                                                                                    
+               Accuracy : 0.8766                                                    
+                 95% CI : (0.8276, 0.9158)                                          
+    No Information Rate : 0.8298                                                    
+    P-Value [Acc > NIR] : 0.03045                                                   
+                                                                                    
+                  Kappa : 0.5915                                                    
+                                                                                    
+ Mcnemar's Test P-Value : 0.26521                                                   
+                                                                                    
+            Sensitivity : 0.7250                                                    
+            Specificity : 0.9077                                                    
+         Pos Pred Value : 0.6170                                                    
+         Neg Pred Value : 0.9415                                                    
+             Prevalence : 0.1702                                                    
+         Detection Rate : 0.1234                                                    
+   Detection Prevalence : 0.2000                                                    
+      Balanced Accuracy : 0.8163                                                    
+                                                                                    
+       'Positive' Class : CervicalSquamousCellCarcinomaandEndocervicalAdenocarcinoma
+                                                                                    

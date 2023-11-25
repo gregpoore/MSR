@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.88803457688808,0.984157026465361,0.892630385487528,0.019778639154177,0.853864965082128,0.931395805892929,0.019778639154177,0.84168398716988,0.943576783805177,"Stomach Adenocarcinoma","Primary Tumor vs Solid Tissue Normal","kuAllFinalNonzero_BIO_T2T_HiSeq_CMS","metaKUAllFinalNonzero_BIO_HiSeq_CMS",70,628,"SolidTissueNormal","PrimaryTumor"

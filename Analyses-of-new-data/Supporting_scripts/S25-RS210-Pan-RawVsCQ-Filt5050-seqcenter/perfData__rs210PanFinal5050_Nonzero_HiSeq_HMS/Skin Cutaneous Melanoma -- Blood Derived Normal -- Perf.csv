@@ -1,0 +1,2 @@
+"","auroc","aupr","aucEstimate","aucSE95","lowerCI95","upperCI95","aucSE99","lowerCI99","upperCI99","diseaseType","sampleType","datasetName","metadataName","minorityClassSize","majorityClassSize","minorityClassName","majorityClassName"
+"1",0.882639663074447,0.554759034370219,0.883882994939333,0.0137969343658206,0.856841500485262,0.910924489393404,0.0137969343658206,0.848344447100711,0.919421542777955,"Skin Cutaneous Melanoma","Blood Derived Normal","rs210PanFinal5050_Nonzero_HiSeq_HMS","metaRSFinal5050_Nonzero_HiSeq_HMS",115,702,"Skin Cutaneous Melanoma","OtherCancerType"

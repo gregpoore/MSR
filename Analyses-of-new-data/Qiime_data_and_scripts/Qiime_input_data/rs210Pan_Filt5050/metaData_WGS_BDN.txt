@@ -1,0 +1,1734 @@
+sampleid	investigation	disease_type	experimental_strategy	data_submitting_center_label
+13722.58cfa830e4b0c9d6adf6bc54	TCGA-READ	Rectum Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b9c2	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6ba68	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6ba7a	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c1fe	TCGA-READ	Rectum Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bc3a	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b71c	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b682	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82ee4b0c9d6adf6b030	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b889	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b72e	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c538	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cd22	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bc68	TCGA-READ	Rectum Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bdde	TCGA-READ	Rectum Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bf97	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b96c	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6ba0e	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b9a3	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bb70	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b96b	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bc16	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bb52	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b95a	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b978	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bc42	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6ba3e	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b88c	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b8d5	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b7ec	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b83f	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82ee4b0c9d6adf6af57	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6ba39	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b928	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b91e	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82ee4b0c9d6adf6ae71	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b8f8	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82ee4b0c9d6adf6b146	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b9ec	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa82ee4b0c9d6adf6afb2	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82ee4b0c9d6adf6aeb4	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6ba52	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b9dc	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bcf5	TCGA-READ	Rectum Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6ba70	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6ba62	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bbf6	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bb78	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c92d	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d206	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c64a	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c3c8	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c51e	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c512	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c970	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6ce15	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c93b	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb08	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c788	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c644	TCGA-STAD	Stomach Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c46c	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d57c	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d57e	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d583	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d5a7	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d588	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d0b4	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d39e	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d598	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d3b4	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa830e4b0c9d6adf6c204	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6beac	TCGA-READ	Rectum Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c1f3	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c05a	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bcb0	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bbda	TCGA-READ	Rectum Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bea6	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bf42	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bf36	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bed1	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c3ae	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6be8e	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bde4	TCGA-READ	Rectum Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c280	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6beb1	TCGA-READ	Rectum Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bff0	TCGA-READ	Rectum Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bbc6	TCGA-READ	Rectum Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bbea	TCGA-READ	Rectum Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6be86	TCGA-READ	Rectum Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c060	TCGA-READ	Rectum Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bd02	TCGA-READ	Rectum Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bbcc	TCGA-READ	Rectum Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bcf3	TCGA-READ	Rectum Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c015	TCGA-READ	Rectum Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bc18	TCGA-READ	Rectum Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b980	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6ba58	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bb80	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b964	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6ba5a	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b95c	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cf68	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d468	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d088	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d1f8	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cf0c	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb46	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cd70	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c51c	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cec8	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c96e	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cc35	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c200	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6be36	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c04c	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bc44	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b876	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b8a1	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82ee4b0c9d6adf6aff0	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b87d	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b6e2	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b764	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82ee4b0c9d6adf6ae34	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82ee4b0c9d6adf6af9a	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82ee4b0c9d6adf6afea	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b93e	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6ba21	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bb90	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cfde	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d0a8	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d47e	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cfbc	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d41e	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d620	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cf1e	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d554	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d640	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d846	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d45a	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d5f9	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d272	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d652	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d530	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d446	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d47c	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa830e4b0c9d6adf6bc56	TCGA-READ	Rectum Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c1ec	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bf6c	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c072	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bebe	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bd8e	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c396	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bf8d	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bbd2	TCGA-READ	Rectum Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6be52	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bec2	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bd98	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6be28	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bbe2	TCGA-READ	Rectum Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c5be	TCGA-STAD	Stomach Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa830e4b0c9d6adf6c058	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c1c2	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c5fa	TCGA-STAD	Stomach Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa830e4b0c9d6adf6bc14	TCGA-READ	Rectum Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cbe5	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cdf4	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cc6e	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cd5a	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6ceb5	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c598	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c50a	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c51f	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c510	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cee1	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c764	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6ce1c	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c7ca	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6ca4b	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cdca	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bff6	TCGA-READ	Rectum Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6be98	TCGA-READ	Rectum Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b9f6	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bd72	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6beaa	TCGA-READ	Rectum Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cc9e	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c038	TCGA-READ	Rectum Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d14e	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa830e4b0c9d6adf6bcd2	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cdf8	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6be60	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb6e	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d00d	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb9c	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6ce40	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb52	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c919	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa830e4b0c9d6adf6bda0	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b7e4	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b6a8	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b850	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82ee4b0c9d6adf6ae58	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82ee4b0c9d6adf6aeda	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82ee4b0c9d6adf6af63	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b9d4	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bb83	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bc0f	TCGA-READ	Rectum Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bd9e	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6be3e	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bfb4	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bc71	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bc80	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d1ec	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cf04	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6ce24	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d139	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cf06	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d182	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d266	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb78	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cffa	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c8a4	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cde0	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cc18	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d4e0	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d41c	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d1e4	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d4b7	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d17a	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d440	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cb86	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d4e2	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d4c8	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cf24	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cf88	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d5db	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d4d0	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d384	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d3fd	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cba7	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cc48	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d844	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d0ae	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d5df	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d492	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d60c	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d48e	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa830e4b0c9d6adf6c1c6	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ca7e	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c820	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c4c6	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c75b	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c073	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c394	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cadc	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c624	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c993	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c6c0	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c704	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c360	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c5d0	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c504	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6caa8	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c346	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c6d4	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c982	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c5b6	TCGA-STAD	Stomach Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa830e4b0c9d6adf6c041	TCGA-READ	Rectum Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bcac	TCGA-READ	Rectum Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82ee4b0c9d6adf6ae66	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82ee4b0c9d6adf6af8c	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb34	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6caa2	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cc1f	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c770	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb69	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cbed	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cd72	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cc86	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cd04	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b9f8	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b666	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b5f9	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b98a	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cf5b	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d1de	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6ce8e	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6ce90	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d281	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cf9c	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cec9	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa82fe4b0c9d6adf6b635	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c15c	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c222	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bbd8	TCGA-READ	Rectum Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c1e0	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c1a7	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bc88	TCGA-READ	Rectum Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bc9e	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b955	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ccd8	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cbe8	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6ceec	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ca39	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cd68	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c929	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c962	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6ce2c	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ccfc	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6caac	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6ced9	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6ca67	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c879	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c999	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cc70	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cc31	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d1b0	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb10	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cb1b	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ca04	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ca08	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cfaf	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d216	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d14c	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d4af	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cf61	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d488	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d3ec	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cef2	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cf90	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cf2e	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cf8e	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d264	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa830e4b0c9d6adf6be74	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c34e	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bf91	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c73e	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c528	TCGA-COAD	Colon Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c753	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ca1d	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bdc2	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c5fe	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c5ea	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c5b2	TCGA-STAD	Stomach Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa830e4b0c9d6adf6c2cc	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6be6a	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6be7c	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa830e4b0c9d6adf6c2b2	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bf85	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c6bc	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa830e4b0c9d6adf6c197	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c8fc	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bdca	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c459	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6be9b	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa82fe4b0c9d6adf6b7f2	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b6af	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b6a6	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b9a2	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bf89	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa82fe4b0c9d6adf6b7ac	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82ee4b0c9d6adf6afa6	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c855	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c756	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c82a	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c693	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c8b3	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c83e	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c700	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c9f1	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d1fc	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d3f8	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d1b4	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d1e5	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cdce	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6ce5e	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cdd6	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cf4a	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cd52	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ca13	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6ca8c	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cd2d	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cc00	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ca40	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa830e4b0c9d6adf6bbd4	TCGA-READ	Rectum Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bfb6	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c12c	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bec3	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c036	TCGA-READ	Rectum Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82ee4b0c9d6adf6af8a	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bd93	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c63e	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c25d	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c027	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c16e	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bda9	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c53e	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c65f	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c7c0	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c256	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bd82	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c8f8	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c368	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c3f4	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c390	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c410	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa830e4b0c9d6adf6c262	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c5d4	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c916	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d1b7	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cf64	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cf7b	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6ce71	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6ce94	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d3f1	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d16a	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d122	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d4a4	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cfd0	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cfb9	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cac0	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cc78	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb80	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cebb	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb66	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cd24	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ccce	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cca7	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb76	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ca77	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c9af	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb88	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb95	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cc2b	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb20	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6ce38	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cc62	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cacc	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cc5e	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cc8a	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6ca84	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6ce44	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cc52	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6caf2	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cafa	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c94c	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cebc	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6caf4	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6ccec	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa830e4b0c9d6adf6bed9	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c146	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bd90	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c242	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c160	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c1ce	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c174	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c0f8	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bf2a	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bed3	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b6bb	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b950	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b94e	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c5a4	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c41e	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c516	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa830e4b0c9d6adf6bef6	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c62e	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cecb	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cc8b	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ca2d	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cd0c	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb02	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c996	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cf25	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa82ee4b0c9d6adf6afa8	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b916	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b9ad	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b878	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b6d4	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b684	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82ee4b0c9d6adf6affc	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c686	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c263	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c39c	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c24a	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa830e4b0c9d6adf6bdab	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bdc8	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c1c9	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c973	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c7a7	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c7eb	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c946	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c7b8	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ca97	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c75e	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c72c	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6ca6a	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c5b9	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c308	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c40c	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa830e4b0c9d6adf6bfbc	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bfb2	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c30a	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c813	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cab4	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c69a	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ca96	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c9c6	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c8fa	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c05c	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ca74	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c808	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c749	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c972	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ca26	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c71c	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c6fa	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cb4e	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ca88	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb6c	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c89c	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ca18	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cd1c	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c8be	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cad8	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb16	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6ccc4	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cae2	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cbb2	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6ccfe	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c967	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cf30	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d3f9	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d004	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d124	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d12a	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c95e	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d1cf	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cdd1	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d14f	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cf02	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cf50	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d23c	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d2c1	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d298	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d0ea	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d3fc	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6ce1e	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d244	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cfec	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d184	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d63e	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d3f4	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cf44	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d648	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d4e9	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d148	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d009	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d422	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d262	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cf72	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c956	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d040	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cda6	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bbb6	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c254	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c2e6	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6be7a	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6be41	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c38c	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6be5a	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c4b2	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c648	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c5e5	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c650	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c5a8	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c32b	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c616	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c35c	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c680	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c596	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c6e6	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c76e	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c908	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c910	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c7d4	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c90d	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cafc	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cbab	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6ce06	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ccca	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ca33	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cbba	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cba2	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bfd2	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c054	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bddc	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6becb	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b885	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c112	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c210	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b861	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c1a4	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c193	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cea2	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d210	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d48c	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa82fe4b0c9d6adf6b8ec	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b9ce	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b8f0	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b66d	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b67a	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b6a0	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c1be	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c10e	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c13c	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c132	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c10c	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c122	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c240	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c1f0	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c844	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c814	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c834	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c83f	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c7a6	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c870	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c8a0	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c98b	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bedb	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b894	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6be20	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c572	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c6e0	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c797	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c579	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c92a	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c79e	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c354	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c574	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c34c	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c690	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cd48	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cc82	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6ce0a	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cc74	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb3e	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb0a	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cd34	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ca8a	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb4f	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb14	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb0c	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c8b6	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cac4	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6ce86	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d022	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cea8	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d226	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cfd6	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d0ee	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cfc8	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d2ce	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cffc	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d090	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d080	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cfd4	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d1cc	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d20c	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d084	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d4c4	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cfc4	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d07c	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cfc6	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cf39	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cfcc	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cffe	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d212	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d175	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b71e	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b766	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b988	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c63c	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c594	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c45c	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c61d	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c9c1	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d204	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cec0	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cecd	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c885	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c931	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c202	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bdce	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c232	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c1d4	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bee4	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bdd0	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c286	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b9f0	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bc48	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c784	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c6e7	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c671	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c614	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c942	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c6e2	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c5dc	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c5da	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa82ee4b0c9d6adf6af8e	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82ee4b0c9d6adf6ae56	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b5e0	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b6c1	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b690	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c3fa	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c6de	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c518	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c5f4	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c5b3	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c576	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c65d	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c444	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c4ae	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c5e2	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c25a	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c488	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c4c4	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c389	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c02e	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b8dc	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b880	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bd7e	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6ba37	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c8eb	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d208	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d22a	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c85f	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d07a	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cc0f	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c85a	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c7de	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c822	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cace	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c82e	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c740	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cf8b	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d1ce	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d1d3	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c91d	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c867	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cad0	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d1c8	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cc94	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb94	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6ce22	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c9ac	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d0ce	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cf54	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c848	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cf7e	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cfae	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d43c	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cfa2	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6ce66	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c5b8	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d002	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cd76	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cd97	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d22e	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d006	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6ceb4	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cdd0	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cfaa	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cd19	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cda4	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cd4a	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cf2b	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cce2	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d0d5	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cd96	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6ce32	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ccbc	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cbe4	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb84	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6ce83	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6ce5c	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d02c	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cec6	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c190	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c6d6	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c6b3	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c92f	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c786	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c665	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6befa	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c034	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c305	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c46d	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c492	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c2ba	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c81c	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c8d2	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c85e	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c8dc	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c818	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c938	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c923	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bf38	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b943	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b9c0	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cff2	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d01e	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cd4e	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cf14	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b6d5	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c84c	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c849	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c765	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ca14	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c950	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c74c	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82ee4b0c9d6adf6afec	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb1e	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb63	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb70	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa82ee4b0c9d6adf6ae42	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82ee4b0c9d6adf6b087	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82ee4b0c9d6adf6aefb	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82ee4b0c9d6adf6afbe	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cbc4	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d4bc	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d47a	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d099	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d5ce	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d1d8	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bd8a	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6be24	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bc60	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bf23	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c564	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c464	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c55e	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c629	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c69e	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c924	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c550	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c3ea	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c324	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c3d7	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c336	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c636	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bfba	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c306	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6beec	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c166	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c9c4	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ca50	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ca62	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c9b9	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c9d2	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ca52	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c9e2	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c96b	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cac8	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6caec	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb81	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb7a	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cbdf	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cd87	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ccbe	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cd58	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cbd6	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb7c	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cbae	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cd08	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb98	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ccb0	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cc8d	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cbc3	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cc58	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cd28	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cbc1	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ccd6	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c7b0	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c7d6	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c7c2	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c920	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c72e	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c7dc	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c72a	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c761	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c815	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d22c	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d4de	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d4e8	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d4ac	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cf4c	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d102	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cf2a	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d19e	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cf12	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa82fe4b0c9d6adf6b646	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b724	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bc9f	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b8a8	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6ba66	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bff4	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c2af	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bee8	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b879	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b83a	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c35a	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bfce	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c35e	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c432	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa82ee4b0c9d6adf6afa4	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b5ce	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82ee4b0c9d6adf6af98	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c760	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c8c6	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6ca9c	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ca8e	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c7f0	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cafe	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6ccc2	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cbd4	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cd00	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cbbd	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cc46	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cc50	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cd10	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb72	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cc01	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cbf3	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cbcd	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c40e	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c544	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c68c	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c676	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c47b	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c55c	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c448	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c400	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c863	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6ce9d	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cd8a	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cc6a	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6ce08	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6ccfa	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cc72	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cd56	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6cdd8	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6ce04	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d14a	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6cf9a	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d17b	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d038	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c4ef	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bd88	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6be0d	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c0ba	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c002	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c2bc	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c0a2	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c250	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c340	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c408	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa830e4b0c9d6adf6c25c	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa830e4b0c9d6adf6c10a	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c126	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c22a	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c3a2	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c12a	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c0fa	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c3e8	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c30e	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6c1e8	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c5ca	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bf8b	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ca76	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c716	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6c7d8	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ca86	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c7ec	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa831e4b0c9d6adf6ca02	TCGA-THCA	Thyroid Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c462	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c3f2	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c51a	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c5bf	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb92	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb3c	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cc2d	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb44	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cc09	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cbac	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cbb8	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cd60	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d5fc	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d1c2	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cd98	TCGA-THCA	Thyroid Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6cfe2	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d0a0	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6ce56	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d0bd	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d5f3	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d18a	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d392	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d4ad	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d178	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6d217	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d046	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d476	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d406	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d4c1	TCGA-UVM	Uveal Melanoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa832e4b0c9d6adf6d658	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa82fe4b0c9d6adf6b9f2	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bde8	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa830e4b0c9d6adf6be2c	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa830e4b0c9d6adf6bdd2	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82fe4b0c9d6adf6b61e	TCGA-LUAD	Lung Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa832e4b0c9d6adf6ce50	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa83ce4b0c9d6adf7314c	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf731da	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa832e4b0c9d6adf6d09e	TCGA-ESCA	Esophageal Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa83ce4b0c9d6adf73114	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72e4f	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf731d4	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf730f3	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa830e4b0c9d6adf6be50	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6cc9a	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cb90	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa83ce4b0c9d6adf730e4	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72fde	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa831e4b0c9d6adf6cbdb	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6cd30	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa83ce4b0c9d6adf72f12	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa831e4b0c9d6adf6ca70	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ccee	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ccea	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ca10	TCGA-LGG	Brain Lower Grade Glioma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c48a	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c348	TCGA-STAD	Stomach Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa82de4b0c9d6adf6a44d	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a46c	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a540	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a446	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa831e4b0c9d6adf6c6c9	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ccda	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Harvard Medical School
+13722.58cfa83ce4b0c9d6adf730bc	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72ea4	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa831e4b0c9d6adf6ca31	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ca3e	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6ca7a	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa83ce4b0c9d6adf72ebb	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72fe8	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf730c7	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72f1d	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf7310c	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa831e4b0c9d6adf6c832	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c87d	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c782	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c6ac	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Harvard Medical School
+13722.58cfa831e4b0c9d6adf6c7f8	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	MD Anderson - Institute for Applied Cancer Science
+13722.58cfa82de4b0c9d6adf6a520	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a4fa	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a612	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a50a	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a442	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a453	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a4ae	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a560	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a4bc	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a4f8	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a4a4	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a638	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a494	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a496	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a512	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a492	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a563	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a51e	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a567	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82fe4b0c9d6adf6b622	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82de4b0c9d6adf6a4ee	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82fe4b0c9d6adf6b5eb	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b526	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82de4b0c9d6adf6a582	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a44b	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82fe4b0c9d6adf6b572	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82de4b0c9d6adf6a4c0	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a4ba	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a4aa	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a646	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a4fc	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a500	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a516	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a5bc	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a704	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a5e8	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a5d1	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a5cb	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a62e	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a5ca	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a6b0	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a6f8	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a688	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a6f6	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a5ac	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a6f4	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a5ba	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a64c	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a6e4	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a5c5	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a6b2	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a67c	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a615	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a690	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82ee4b0c9d6adf6b06c	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82de4b0c9d6adf6a6aa	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82ee4b0c9d6adf6a902	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa830e4b0c9d6adf6bb92	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa830e4b0c9d6adf6c1e4	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Harvard Medical School
+13722.58cfa830e4b0c9d6adf6bc3f	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa830e4b0c9d6adf6bf7c	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Harvard Medical School
+13722.58cfa82fe4b0c9d6adf6b9d2	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa83ce4b0c9d6adf72f83	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72ee1	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72ed6	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf731bc	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf73071	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72ed4	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72ee8	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72ebf	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72e92	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72ec9	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72ec0	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72e9e	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf73151	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a550	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a648	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a562	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a595	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a605	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a524	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a576	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a5f5	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a608	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a621	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a4fe	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a5f4	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a61c	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a5aa	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a54a	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a4cc	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a6a8	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf7314e	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82ee4b0c9d6adf6a8e8	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa83ce4b0c9d6adf72fe0	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a6b4	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72f0b	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa830e4b0c9d6adf6bb9e	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf7312e	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa830e4b0c9d6adf6c1c4	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a6fc	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf73182	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72fc7	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72ef9	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf73187	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72f34	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf7316c	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf73108	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72e94	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a6c6	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf7311a	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa830e4b0c9d6adf6bd6c	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82ee4b0c9d6adf6a8c8	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82de4b0c9d6adf6a6f0	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a692	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72eee	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a68d	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa830e4b0c9d6adf6bc0c	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa83ce4b0c9d6adf72eea	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf7304e	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72f85	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf7320a	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72ea5	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a700	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a702	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72fca	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf731e4	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82ee4b0c9d6adf6a864	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa83ce4b0c9d6adf7314a	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf73150	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72ef5	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72e90	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a696	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72e7e	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72e4e	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82ee4b0c9d6adf6a970	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa830e4b0c9d6adf6bdbc	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82ee4b0c9d6adf6aa9c	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aaca	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6abf8	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab96	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa83ce4b0c9d6adf73140	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82ee4b0c9d6adf6a8d0	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a866	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a940	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a96c	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a92c	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a8fc	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a98a	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa23	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab18	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6abe5	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac29	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82de4b0c9d6adf6a454	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a4b6	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a5da	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a609	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a508	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a683	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a686	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a670	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a593	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a4dc	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a5fa	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a4da	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a4c4	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a59f	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a5e4	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a57a	TCGA-SARC	Sarcoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a490	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a585	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a4b0	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf730d0	TCGA-CESC	Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72edd	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf7310a	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf731b4	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf730c2	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72f5b	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf730de	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72eaf	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf731c2	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf73100	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf73133	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf7311e	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf7309c	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf7311c	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf731e8	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf73204	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf72f6e	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82ee4b0c9d6adf6ad0c	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82de4b0c9d6adf6a480	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82ee4b0c9d6adf6ac10	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa831e4b0c9d6adf6c5d2	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bdaf	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c713	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa82ee4b0c9d6adf6aa6c	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa830e4b0c9d6adf6bbb0	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82de4b0c9d6adf6a5d6	TCGA-UCEC	Uterine Corpus Endometrial Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa83ce4b0c9d6adf7305a	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa830e4b0c9d6adf6bcaa	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bcf8	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b9d0	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82ee4b0c9d6adf6aca0	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa830e4b0c9d6adf6c220	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa82de4b0c9d6adf6a5e6	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82fe4b0c9d6adf6b61f	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82de4b0c9d6adf6a6de	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa82ee4b0c9d6adf6ac3f	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a97c	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a977	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82fe4b0c9d6adf6ba3b	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bd60	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82ee4b0c9d6adf6ad59	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac60	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa8f	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab3a	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac0e	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6abc8	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6acda	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa84	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a936	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a999	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a8f0	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab6a	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab58	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa5e	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a8de	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6adb8	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af40	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab06	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a8bc	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a90d	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac70	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af30	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aefe	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab8f	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aafc	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a97a	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aabc	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aab4	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a972	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab32	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac66	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a86c	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab84	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a982	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ad0a	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a96d	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a94a	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6acdd	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aba5	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac43	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6abf9	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a884	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa3e	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a98e	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aaf8	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aad6	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab93	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a903	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a816	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82de4b0c9d6adf6a732	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a983	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa42	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa66	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa9a	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6abe3	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aaf2	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aaaa	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aba7	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab08	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a991	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a88f	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a900	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a946	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a93c	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa8e	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa48	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a7cb	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa96	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a8f2	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a91e	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6abba	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a92a	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa22	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a934	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa830e4b0c9d6adf6ba4e	TCGA-BRCA	Breast Invasive Carcinoma	WGS	Washington University School of Medicine
+13722.58cfa830e4b0c9d6adf6bde6	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c5a6	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bdda	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6ba23	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c6f6	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c1d8	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6be9e	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bb0c	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bfec	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bbd6	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82ee4b0c9d6adf6afc2	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82fe4b0c9d6adf6b910	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d1e8	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b924	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6beaf	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82ee4b0c9d6adf6ab9a	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac19	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82fe4b0c9d6adf6b9fc	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82ee4b0c9d6adf6ae7f	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac32	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac47	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac00	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ada6	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6afb8	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa830e4b0c9d6adf6bbe0	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82ee4b0c9d6adf6add2	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af02	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6abde	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6b0af	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6acb8	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ad53	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6b095	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac2e	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ae84	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6abb3	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aca6	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af36	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6acba	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac6e	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab9d	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac24	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82de4b0c9d6adf6a736	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ace8	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6adaa	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa831e4b0c9d6adf6c474	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c960	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6cc3a	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6ce82	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6cdbc	TCGA-DLBC	Lymphoid Neoplasm Diffuse Large B-cell Lymphoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6cd86	TCGA-DLBC	Lymphoid Neoplasm Diffuse Large B-cell Lymphoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c15a	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6cd46	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6cda2	TCGA-DLBC	Lymphoid Neoplasm Diffuse Large B-cell Lymphoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c040	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6cb24	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6cd6a	TCGA-DLBC	Lymphoid Neoplasm Diffuse Large B-cell Lymphoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6cea4	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6ce28	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6cd94	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c3ba	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6cc44	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bef4	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6cd92	TCGA-DLBC	Lymphoid Neoplasm Diffuse Large B-cell Lymphoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6ce52	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6ce4e	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c3a4	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bbfc	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6cdbe	TCGA-DLBC	Lymphoid Neoplasm Diffuse Large B-cell Lymphoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6ce7a	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bd76	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6cb2e	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6cdea	TCGA-DLBC	Lymphoid Neoplasm Diffuse Large B-cell Lymphoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6caea	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bb8a	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c008	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6ce48	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6cabe	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d302	TCGA-KICH	Kidney Chromophobe	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6ced4	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c3bc	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6ba72	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c1d2	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bbca	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6ce76	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa82ee4b0c9d6adf6addf	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa832e4b0c9d6adf6cf31	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d432	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d306	TCGA-KICH	Kidney Chromophobe	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d2ee	TCGA-KICH	Kidney Chromophobe	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c6a8	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b832	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c43e	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d436	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d2ea	TCGA-KICH	Kidney Chromophobe	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c288	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6ba12	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b94c	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bc58	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa82ee4b0c9d6adf6aea9	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6b168	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af94	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6acf2	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aff4	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac92	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6acfc	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac8a	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ad2f	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82fe4b0c9d6adf6b8b6	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bc5c	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bc66	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa82ee4b0c9d6adf6adf9	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aeb0	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82de4b0c9d6adf6a768	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab78	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6abac	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82fe4b0c9d6adf6b9fa	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82ee4b0c9d6adf6af51	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af92	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82ee4b0c9d6adf6ae4c	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82de4b0c9d6adf6a72a	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a8dc	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa13	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aad0	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a7f2	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ace2	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ada8	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ade8	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a7d8	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ad14	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ad9c	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa5c	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6b00c	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aec0	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aafa	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ae90	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af16	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa46	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ad4d	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac5c	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82de4b0c9d6adf6a76c	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aeb8	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac04	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aef4	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a9e0	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a958	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aefa	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aeae	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aec6	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a995	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab64	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6adc1	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aef6	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6acf3	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ad10	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aeb2	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a8ee	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6adce	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ada2	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac68	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6adf4	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ad3c	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac54	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a8a2	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab52	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af42	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa3a	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af0a	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a9c8	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aea1	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa7c	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab71	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aebc	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aef0	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ae7b	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a90c	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af5f	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a7f0	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ae87	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab48	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa2c	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6acd5	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a8c5	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aaea	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a7c8	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82de4b0c9d6adf6a772	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa7e	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a98c	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af2e	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af0e	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82fe4b0c9d6adf6ba18	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bc96	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6ce80	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b9e6	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c775	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bd0f	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6ccb8	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6ba89	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d1fe	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6cb7e	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bca4	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d4ec	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b8e6	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d482	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d10a	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d1ae	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b2ca	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b3ee	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82ee4b0c9d6adf6b1f2	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6baf0	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b40a	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82ee4b0c9d6adf6ad2c	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6afe3	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b3c0	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b454	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82ee4b0c9d6adf6ae0e	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b848	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b2fc	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82ee4b0c9d6adf6b08a	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82fe4b0c9d6adf6b4c4	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b83d	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b810	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82ee4b0c9d6adf6ae47	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac08	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a98f	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa831e4b0c9d6adf6c8f0	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c19e	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c03e	TCGA-KIRC	Kidney Renal Clear Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bdfc	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6be4a	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82ee4b0c9d6adf6af38	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa831e4b0c9d6adf6c6a3	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6ba46	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82ee4b0c9d6adf6aed6	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa830e4b0c9d6adf6bdec	TCGA-READ	Rectum Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82ee4b0c9d6adf6ade9	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa830e4b0c9d6adf6c013	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bfbe	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c472	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82ee4b0c9d6adf6aede	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa831e4b0c9d6adf6c796	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c658	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa82ee4b0c9d6adf6b140	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6adb6	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ae18	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6adba	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ad50	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6addb	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6adc8	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af00	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6acc5	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ae43	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6acca	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6acc4	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ad3f	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6acb0	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af32	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6affe	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af22	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac7d	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aeec	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ace4	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af50	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ae4e	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aeba	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6adf2	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aca2	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af13	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6adde	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ada4	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af70	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6accd	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ad65	TCGA-OV	Ovarian Serous Cystadenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ad90	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6adf7	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ad75	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6acd1	TCGA-STAD	Stomach Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82de4b0c9d6adf6a716	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82de4b0c9d6adf6a730	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a7d9	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab5a	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a8ad	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a7d5	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aad8	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aae0	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab1a	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac12	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa70	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a91c	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a916	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa34	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a9fa	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82de4b0c9d6adf6a71e	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aba4	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a976	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a85e	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aae2	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa6e	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa94	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac2c	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac3d	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a9f4	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa0c	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa16	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a9f8	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa85	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a7cd	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab14	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac0a	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a7e4	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac3a	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aa40	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a926	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab94	TCGA-SKCM	Skin Cutaneous Melanoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac71	TCGA-BLCA	Bladder Urothelial Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aace	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a8be	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a8ea	TCGA-LGG	Brain Lower Grade Glioma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ac49	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6a927	TCGA-GBM	Glioblastoma Multiforme	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab7a	TCGA-PRAD	Prostate Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6ab30	TCGA-THCA	Thyroid Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82de4b0c9d6adf6a744	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6aafe	TCGA-LUAD	Lung Adenocarcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa82ee4b0c9d6adf6af61	TCGA-LUSC	Lung Squamous Cell Carcinoma	WGS	Broad Institute of MIT and Harvard
+13722.58cfa832e4b0c9d6adf6d592	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d59b	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b9e4	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c241	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d5a1	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d100	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d594	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d2e4	TCGA-KICH	Kidney Chromophobe	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d595	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c2fb	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d0b5	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d55c	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d0c1	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6cfee	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c252	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d1d6	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c1b4	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c162	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d030	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d304	TCGA-KICH	Kidney Chromophobe	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b8b1	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6ce4a	TCGA-LIHC	Liver Hepatocellular Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c807	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6cf40	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c79f	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c17a	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c78e	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d2a3	TCGA-KICH	Kidney Chromophobe	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c180	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b89e	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c186	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d5ba	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d2e8	TCGA-KICH	Kidney Chromophobe	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6ca66	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bc50	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c1ac	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d30c	TCGA-KICH	Kidney Chromophobe	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c6ec	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d20a	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c6dc	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c6f8	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6cfb4	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c18e	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c68e	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b8a0	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c17c	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c933	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d510	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bf51	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bdbe	TCGA-KIRP	Kidney Renal Papillary Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c282	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6bc08	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d485	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa82fe4b0c9d6adf6b907	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c8f6	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c97e	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa832e4b0c9d6adf6d472	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c1b0	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
+13722.58cfa830e4b0c9d6adf6c2e2	TCGA-COAD	Colon Adenocarcinoma	WGS	Baylor College of Medicine
+13722.58cfa831e4b0c9d6adf6c917	TCGA-HNSC	Head and Neck Squamous Cell Carcinoma	WGS	Baylor College of Medicine
