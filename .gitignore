@@ -1,0 +1,6 @@
+# ignore these files
+*.sh
+*.DS_Store
+/Analyses-of-original-data/Input_data/snmDataSampleTypeWithExpStrategyFINAL.RData
+/Analyses-of-original-data/Input_data/tcgaVbDataAndMetadataAndSNM_consolidated_Nov23.RData
+/Analyses-of-original-data/Input_data/tcgaVbDataAndMetadataAndSNM.RData
